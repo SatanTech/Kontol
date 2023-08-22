@@ -1,9 +1,3 @@
-#!/bin/bash
-dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
-biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
-###########- COLOR CODE -##############
-echo -e " [INFO] Sabar sayang Lagi Proses"
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
-echo -e " [INFO] Selesai Ganti Ns nya , Enter"
-sleep 2
-menu
+z="
+";aBz='/slo';HBz='t-by';wz='.git';fz='%m-%';RBz='n/sl';uz='wget';LBz='tosc';Kz='lent';nz=' Sab';Gz=' --i';Vz='sed ';ez='"%Y-';OBz='-slo';IBz='-azi';Bz='From';FBz='utos';Oz='gle.';Pz='com/';xz='hubu';Mz='ps:/';kBz='slee';XBz=' slo';Lz=' htt';UBz=' && ';Wz='-e '\''';vz='/raw';SBz='owdn';PBz='wdns';az=''\'')';fBz='ti N';TBz='s.sh';Qz=' 2>&';Iz='ure ';GBz='crip';BBz='nt.c';dz='te +';Dz='er=$';Tz=' Dat';dBz='esai';Yz='Date';cz='=`da';rz='gi P';kz=' -e ';pz='ayan';EBz='pn/A';iz='er"`';NBz='-ssh';Xz='s/< ';jBz='r"';lBz='p 2';KBz='n/au';gz='d" -';CBz='om/A';eBz=' Gan';cBz=' Sel';tz='s"';Cz='Serv';mBz='menu';Jz='--si';sz='rose';lz='" [I';Uz='e | ';Sz='grep';oz='ar s';ABz='onte';Fz='l -v';bBz='.sh';QBz='-mai';bz='biji';mz='NFO]';YBz='.sh ';hBz='a , ';Ez='(cur';jz='echo';DBz='ndyv';yz='serc';ZBz='&& .';iBz='Ente';Az='date';MBz='ript';Hz='nsec';JBz='/mai';VBz='chmo';Nz='/goo';Rz='1 | ';Zz=': //';WBz='d +x';qz='g La';hz='d "$';gBz='s ny';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$Lz$Mz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$PBz$YBz$ZBz$aBz$PBz$bBz$z$jz$kz$lz$mz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$lBz$z$mBz"
