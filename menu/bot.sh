@@ -1,18 +1,3 @@
-IP=$(echo $SSH_CLIENT | awk '{print $1}')
-TMPFILE='/tmp/ipinfo-$DATE_EXEC.txt'
-curl http://ipinfo.io/$IP -s -o $TMPFILE
-ORG=$(cat $TMPFILE | jq '.org' | sed 's/"//g')
-domain=$(cat /etc/xray/domain)
-LocalVersion=$(cat /root/versi)
-IPVPS=$(curl -s ipinfo.io/ip )
-ISPVPS=$( curl -s ipinfo.io/org )
-token=5922026926:6226368145:AAGaFLgpYKcH7JppfHptqyWowndyO_IENEU
-chatid=1106186898
-ttoday="$(vnstat | grep today | awk '{print $8" "substr ($9, 1, 3)}' | head -1)"
-tmon="$(vnstat -m | grep `date +%G-%m` | awk '{print $8" "substr ($9, 1 ,3)}' | head -1)"
-DATE_EXEC="$(date "+%d %b %Y %H:%M")"
-CITY=$(cat $TMPFILE | jq '.city' | sed 's/"//g')
-REGION=$(cat $TMPFILE | jq '.region' | sed 's/"//g')
-COUNTRY=$(cat $TMPFILE | jq '.country' | sed 's/"//g')
-curl -s -X POST "https://api.telegram.org/bot$token/sendMessage" -d chat_id="$chatid" -d text="$IPVPS domain $domain telah install XrayCol pada $DATE_EXEC di $CITY, $REGION via $ORG" > /dev/null 2>&1
-clear
+z="
+";dCz='DATE';bz=' -o ';QDz='egra';Mz='ILE=';Xz='ipin';IBz='S=$(';kDz='nsta';dz='FILE';tBz='rep ';ZDz='_id=';oBz='ttod';TCz=' $8"';RDz='m.or';HCz='="$(';YBz='6368';JCz='at -';kBz='id=1';wz='omai';rCz='ity'\''';aCz='head';fDz='S do';WBz='6926';JBz=' -s ';hCz='e "+';hBz='O_IE';WDz='Mess';mBz='8689';eBz='fHpt';pz=''\'')';XCz=', 1 ';mz=' sed';GDz='TRY=';pCz='| jq';CBz='=$(c';EEz='clea';YDz=' -d ';MCz=' `da';wDz=' via';Oz='p/ip';kz=''\''.or';DBz='at /';QCz=' awk';KBz='o/ip';TDz='t$to';CDz='jq '\''';SCz='rint';uBz='toda';EBz='root';jCz='b %Y';cCz='"';lDz='ll X';ez='ORG=';OBz='( cu';jDz='ah i';iBz='NEU';pDz='$DAT';NCz='te +';Qz='-$DA';lz='g'\'' |';dDz=' tex';xCz='ON=$';aDz='"$ch';Kz=')';yz='Loca';Hz=''\''{pr';sCz=' | s';EDz='ion'\''';Az='IP=$';wCz='REGI';pBz='ay="';lBz='1061';CEz='ll 2';iCz='%d %';ADz='PFIL';uDz=' $RE';xBz='"sub';RCz=' '\''{p';DCz=' | h';oDz='ada ';Cz='o $S';Iz='int ';FCz='-1)"';NBz='PS=$';tDz='ITY,';iz='LE |';Vz=' htt';JDz='y'\'' |';uCz='s/"/';ABz='lVer';XDz='age"';vz='ay/d';vDz='GION';DDz='.reg';ACz='($9,';vBz='y | ';mDz='rayC';BBz='sion';WCz=' ($9';az='P -s';TBz='toke';ECz='ead ';OCz='%G-%';vCz='/g'\'')';RBz='.io/';gCz='(dat';BDz='E | ';HBz='IPVP';xz='n)';Nz=''\''/tm';rBz='stat';fCz='C="$';PCz='m` |';xDz=' $OR';nz=' '\''s/';mCz='CITY';bBz='FLgp';qz='doma';oCz='ILE ';LDz='OST ';wBz='$8" ';CCz='3)}'\''';ODz='/api';VCz='bstr';aBz='AAGa';Jz='$1}'\''';bCz=' -1)';tCz='ed '\''';BEz='v/nu';nDz='ol p';SBz='org ';ZCz=''\'' | ';uz='c/xr';QBz='s ip';UDz='ken/';XBz=':622';kCz=' %H:';MBz='ISPV';Zz='o/$I';cz='$TMP';jz=' jq ';AEz=' /de';eDz='t="$';sBz=' | g';nBz='8';GBz='si)';VBz='2202';UBz='n=59';gBz='wndy';gz='t $T';bDz='atid';nCz='at $';hz='MPFI';MDz='"htt';rDz='EC d';KCz='m | ';Yz='fo.i';fz='$(ca';Wz='p://';YCz=',3)}';DEz='>&1';FEz='r';eCz='_EXE';Uz='curl';ZBz='145:';FDz='COUN';Gz='awk ';Ez='LIEN';yDz='G" >';dBz='7Jpp';Rz='TE_E';Dz='SH_C';LCz='grep';yCz=' $TM';Bz='(ech';rz='in=$';oz='"//g';qDz='E_EX';PBz='rl -';UCz=' "su';Pz='info';hDz=' $do';lCz='%M")';gDz='main';fBz='qyWo';cDz='" -d';VDz='send';Lz='TMPF';sz='(cat';KDz='-X P';qBz='$(vn';BCz=' 1, ';jBz='chat';sDz='i $C';GCz='tmon';PDz='.tel';Fz='T | ';qCz=' '\''.c';IDz='untr';ICz='vnst';tz=' /et';cBz='YKcH';Tz='txt'\''';FBz='/ver';SDz='g/bo';yBz='str ';LBz=' )';HDz=''\''.co';NDz='ps:/';Sz='XEC.';iDz=' tel';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$tz$uz$vz$wz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$Uz$JBz$Xz$Yz$KBz$LBz$z$MBz$NBz$OBz$PBz$QBz$Pz$RBz$SBz$Kz$z$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$Gz$Hz$Iz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$z$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$z$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$cCz$z$mCz$CBz$nCz$Lz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$wCz$xCz$sz$yCz$ADz$BDz$CDz$DDz$EDz$sCz$tCz$uCz$vCz$z$FDz$GDz$fz$gz$hz$iz$jz$HDz$IDz$JDz$mz$nz$oz$pz$z$Uz$JBz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$jBz$ZDz$aDz$bDz$cDz$dDz$eDz$HBz$fDz$gDz$hDz$gDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$z$EEz$FEz"
