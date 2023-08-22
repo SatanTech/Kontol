@@ -1,20 +1,3 @@
-#!/bin/bash
-# pewarna hidup
-BGreen='\e[1;32m'
-NC='\e[0m'
-clear
-cd
-rm -rf /usr/bin/speedtest
-echo -e "\e[1;32m Start download speedtest.. \e[0m"
-cd /usr/bin
-wget -O speedtest "https://raw.githubusercontent.com/SatanTech/Kontol/master/fix/speedtest"
-chmod +x speedtest
-clear
-echo -e "\e[1;32m Setup done Please wait.. \e[0m"
-sleep 2
-cd
-rm -rf speedtestfix.sh
-clear
-echo -e "\e[1;32m auto reboot in 5s \e[0m"
-sleep 5
-reboot
+z="
+";oz='buse';IBz=' Ple';Iz='clea';dBz='ot';Ez=''\''';nz='ithu';iz=' -O ';Kz='cd';pz='rcon';DBz='d +x';Qz='dtes';SBz='test';Gz='\e[0';Mz='rf /';XBz='eboo';yz='/fix';wz='l/ma';Wz='m St';Tz=' -e ';dz=' \e[';ABz='/spe';qz='tent';jz='t "h';Dz=';32m';LBz='.. \';UBz='sh';Sz='echo';JBz='ase ';PBz='p 2';Jz='r';Vz='1;32';Rz='t';CBz='chmo';ez='0m"';Yz='down';QBz='rf s';Nz='usr/';YBz='t in';Xz='art ';HBz='done';xz='ster';BBz='st"';NBz='"';gz='bin';vz='onto';Oz='bin/';Pz='spee';Bz='en='\''';KBz='wait';ZBz=' 5s ';WBz='to r';bz='edte';sz='/Sat';lz='://r';Az='BGre';fz='cd /';GBz='tup ';RBz='peed';mz='aw.g';Hz='m'\''';kz='ttps';Zz='load';cz='st..';uz='ch/K';Lz='rm -';MBz='e[0m';TBz='fix.';hz='wget';OBz='slee';aBz='m"';Cz='\e[1';Fz='NC='\''';cBz='rebo';tz='anTe';az=' spe';rz='.com';EBz='st';VBz='m au';FBz='m Se';bBz='p 5';Uz='"\e[';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$z$Iz$Jz$z$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$fz$Nz$gz$z$hz$iz$Pz$Qz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$bz$BBz$z$CBz$DBz$az$bz$EBz$z$Iz$Jz$z$Sz$Tz$Uz$Vz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$z$OBz$PBz$z$Kz$z$Lz$QBz$RBz$SBz$TBz$UBz$z$Iz$Jz$z$Sz$Tz$Uz$Vz$VBz$WBz$XBz$YBz$ZBz$Gz$aBz$z$OBz$bBz$z$cBz$dBz"
