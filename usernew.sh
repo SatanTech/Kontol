@@ -185,6 +185,7 @@ else
 echo -e "${BIBlue}════════════ SSH ACCOUNT ═══════════${NC}"
 echo -e "Username   : $Login" 
 echo -e "Password   : $Pass"
+echo -e "Limit IP : $sshlimit"
 echo -e "Expired On : $exp" 
 echo -e "${BIBlue}═══════════════ HOST ═════════════${NC}"
 echo -e "IP         : $IP" 
@@ -220,7 +221,6 @@ echo -e "Host: [host]"
 echo -e "User-Agent: [ua]"
 echo -e "Upgrade: Websocket[crlf][crlf]"
 echo -e "${BIBlue}══════════════════════════════════${NC}"
-echo -e "${BICyan} Satan Fusion Auto Script Service${NC}" 
 
 fi
 echo "" | tee -a /etc/log-create-user.log
