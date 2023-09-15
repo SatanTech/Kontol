@@ -1,3 +1,182 @@
-z="
-";AHz='ull ';EFz='  AU';XEz='$tan';cDz='PS"';KEz='"%T"';jFz=' x) ';aCz='C}]"';aFz=' 6) ';GDz='NDER';Rz='92m'\''';Zz=''\''   ';QGz='uto_';HCz='IGHT';FIz='n co';wz='te='\''';qGz='oad ';cGz='====';Fz='    ';kBz='rt R';BHz='2>&1';oGz='ice ';ODz='e[0;';yBz='rt P';NIz='Pres';RBz='en='\''';rBz='rt Y';Dz='3[1;';YEz='ggal';rEz='oot';AGz='ot';UDz=' ica';pDz='/bas';vz='UWhi';gDz=' ! -';mHz='od +';mDz=' the';dz='\033';uCz='W} R';oHz='Week';xHz=' Off';sHz='7)';LBz='[0;9';ICz=';37m';WEz=' of ';UEz=' on ';OFz=' 2) ';BGz='case';wHz='rned';bCz='rt O';iHz='d/au';IDz='="\e';OHz=' +x ';DBz='05m'\''';dCz='GREE';oDz='/bin';rGz='>/de';HFz='T"';QCz=' ERO';nGz='serv';iz='rple';dHz='usr/';RFz=' 3) ';ABz='On_I';cHz='ot /';nCz='{NC}';YBz='0;94';FBz='Red=';MCz='rt E';oz='6m'\'' ';QDz='MYIP';uGz='>&1';KGz='oot ';DFz='"   ';lHz=' chm';LEz=' '\''ec';pHz='6)';NFz='tes"';DHz='2)';Pz='BIGr';UGz='+x /';iGz='t Ev';qFz=' Inp';TEz='oted';REz='lly ';YHz='5)';RHz='*/12';GIz='rrec';Az='BIBl';Yz=';93m';wGz='tart';wEz='""';Mz='1;91';pFz='ease';PEz='ucce';Qz='een=';TBz='IYel';lBz='ED='\''';GGz=' "*/';YGz='log-';TFz='Hour';MFz='Minu';gFz='f Au';dEz=' /ro';rCz='SEND';jBz='expo';jDz='in/r';lGz=' Min';Lz='033[';DCz='rt C';hz='BIPu';NGz='etc/';wDz='ngga';iBz='m'\''';KDz='red=';uz='e';FEz='t';vFz='or x';sFz='umbe';DGz='tore';eCz='N} O';FHz='* * ';DEz=')'\'' >';tDz='n/re';SCz='NC}]';TIz=' men';VEz='the ';UBz='low=';CFz='cat';Tz='n';Iz='k';RCz='R ${';sDz='r/bi';CEz='-%Y"';NDz='gree';NBz='IRed';LDz=''\''\e[';PCz='RED}';ZGz='ot.t';JDz='[4m"';BEz='m-%d';IBz=''\''';lDz='t ];';QFz='ours';Sz='Gree';WCz='YELL';XHz=': 24';lEz='down';BIz='*)';gEz='t.tx';eFz=' Tur';RIz=' bac';hEz='t'\'' >';sGz='v/nu';RDz='=$(w';kz='Purp';aEz=' $wa';RGz='ot &';lCz='W} P';uHz='fr /';fEz='og-r';qBz=';32m';qHz='0 1 ';MHz='&& c';az='Yell';Uz='BIYe';GCz='rt L';NEz='Serv';oCz=']"';fGz='utoR';HHz='" > ';FGz='1)';WBz='IBlu';cFz='ount';TCz='"';vEz=' -e ';iDz='sr/b';wFz='] : ';JIz='esac';rHz='Moun';qz='BIWh';uDz='boot';JBz='IBla';gBz='NC='\''';WDz='ip.c';EHz=' "0 ';BFz=' lol';NCz='ROR=';nBz='1m'\''';xDz='l=$(';FDz='rt U';mEz=' -r ';tz='Whit';ZHz='0 */';VBz='93m'\''';nDz=' '\''#!';cBz='ICya';hCz='}]"';fCz='KEY ';OCz='"[${';AFz='-" |';ECz='YAN=';ADz='rt W';HGz='30 *';kDz='eboo';BCz='E='\''\';hHz='ron.';TGz='mod ';XGz='oot/';OBz='33[0';Bz='ack=';aBz='ple=';kHz='t &&';ZFz='eeks';BDz='ARNI';OGz='cron';UCz='rt I';Gz='  # ';bBz='95m'\''';WGz='> /r';eGz='   A';PHz=': 1 ';sEz='chmo';dFz=' 7) ';CDz='${RE';LGz='oot"';KBz='ck='\''';pBz='REEN';aHz='7 * ';pEz='/usr';Wz='='\''\0';yEz='----';aGz='xt';iFz='t"';XBz='e='\''\';HDz='LINE';kFz='  ME';VDz='nhaz';IIz='mber';Hz='Blac';eDz='r';CBz='[0;1';dBz='n='\''\';bDz='ng V';qCz='END=';hBz='\e[0';CCz='0;35';yHz='x)';KCz='C='\''\';YFz=' 1 W';LIz='1 -s';mBz='[0;3';fz='4m'\'' ';vGz=' res';hGz='On"';Ez='90m'\''';aDz='ecki';JHz='/cro';dGz='==="';nEz='now'\''';GHz='root';wCz='OLD=';kGz=': 30';bEz='ktu.';JFz=' Aut';iCz='ENDI';vBz='rt B';OEz='er s';UHz='rs"';DIz=' ent';sz='97m'\''';Xz='33[1';qDz='h'\'' >';Oz='Red';cCz='KEY=';VHz='4)';lz='le';FFz='TO R';YDz='echo';BBz='le='\''';Vz='llow';Jz='BIRe';XFz=' 5) ';vHz='t Tu';uEz='fi';SEz='rebo';tEz='d +x';DDz='D}\e';IHz='/etc';dDz='clea';xEz='"---';xBz='34m'\''';jCz='NG="';KHz='n.d/';eHz='ot" ';mz='BICy';tCz='VE="';VFz=' 4) ';tBz='W='\''\';ACz='URPL';LHz='_reb';SDz='get ';pGz=' rel';tFz='r  [';HIz='t nu';SGz='& ch';PFz=' 1 H';iEz=' '\''/s';PGz='.d/a';GBz='3[0;';IFz=' 1) ';HEz='ktu=';MGz=' > /';ZDz=' "Ch';tHz='rm -';QHz='3)';XCz='OW} ';yz='7m'\'' ';vDz=' '\''ta';Nz='m'\''  ';ZBz='IPur';yDz='date';SHz=': 12';bGz='"===';gz='Blue';WFz=' 24 ';nFz=' -p ';GEz=' '\''wa';OIz='s an';pCz='rt S';AIz='menu';NHz='hmod';Cz=''\''\03';THz=' Hou';nHz='x /e';VCz='NFO=';JEz='te +';rz='ite=';nz='an='\''';QBz='IGre';rFz='ut N';PBz=';91m';fDz='if [';FCz='36m'\''';kEz='shut';xCz='"\e[';sBz='ELLO';fBz='IWhi';JCz='rt N';oFz='  Pl';CGz=' $au';uBz='0;33';fFz='n Of';ZEz=' hit';oBz='rt G';yFz='auto';bz='ow';YCz='INFO';CIz=' "Pl';bHz='* ro';SBz='2m'\'' ';kCz='[${Y';eBz='0;96';ZCz=' ${N';HBz='101m';QIz='y to';MBz='0m'\'' ';xFz=' "  ';MIz='-p "';ez='[1;9';JGz=' * r';yCz='1m"';sCz='ECEI';MEz='ho "';EEz='> /u';LFz=' 30 ';IEz='$(da';jz=';95m';fHz='> /e';SFz=' 12 ';EGz=' in';CHz=';;';wBz='LUE=';oEz=' >> ';yGz='ev/n';rDz=' /us';jGz='ery ';XDz='om);';KFz='o Re';gGz='t : ';gHz='tc/c';qEz='/reb';AEz=' +"%';cEz='" >>';tGz='ll 2';EIz='er a';xGz=' >/d';IGz=' * *';Kz='d='\''\';xz='[4;3';LCz='0m'\''';KIz=' -n ';eEz='ot/l';mCz='NG $';mGz='utes';GFz='EBOO';jHz='to_r';cz='ue='\''';vCz='VE $';pz='Cyan';hFz='to R';lFz='NU"';hDz='e /u';UIz='u"';TDz='-qO-';EDz='[5m"';VGz=' "" ';MDz='1;31';gCz='${NC';UFz='s"';EBz='  #';bFz=' 1 M';SIz='k on';PIz='y ke';QEz='ssfu';jEz='bin/';uFz='1-7 ';PDz='32m'\''';mFz='read';WHz='0 * ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Fz$Gz$Oz$z$Pz$Qz$Cz$Dz$Rz$Fz$Gz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$Gz$az$bz$z$Az$cz$dz$ez$fz$Fz$Gz$gz$z$hz$iz$Wz$Xz$jz$Zz$Gz$kz$lz$z$mz$nz$dz$ez$oz$Fz$Gz$pz$z$qz$rz$Cz$Dz$sz$Fz$Gz$tz$uz$z$vz$wz$dz$xz$yz$Fz$Gz$tz$uz$z$ABz$kz$BBz$dz$CBz$DBz$EBz$z$ABz$FBz$Cz$GBz$HBz$IBz$z$JBz$KBz$dz$LBz$MBz$Fz$Gz$Hz$Iz$z$NBz$Wz$OBz$PBz$Zz$Fz$Gz$Oz$z$QBz$RBz$dz$LBz$SBz$Fz$Gz$Sz$Tz$z$TBz$UBz$Cz$GBz$VBz$Fz$Gz$az$bz$z$WBz$XBz$Lz$YBz$Nz$Fz$Gz$gz$z$ZBz$aBz$Cz$GBz$bBz$Fz$Gz$kz$lz$z$cBz$dBz$Lz$eBz$Nz$Fz$Gz$pz$z$fBz$wz$dz$LBz$yz$Fz$Gz$tz$uz$z$gBz$hBz$iBz$z$jBz$kBz$lBz$dz$mBz$nBz$z$jBz$oBz$pBz$Wz$OBz$qBz$IBz$z$jBz$rBz$sBz$tBz$Lz$uBz$iBz$z$jBz$vBz$wBz$Cz$GBz$xBz$z$jBz$yBz$ACz$BCz$Lz$CCz$iBz$z$jBz$DCz$ECz$Cz$GBz$FCz$z$jBz$GCz$HCz$Wz$OBz$ICz$IBz$z$jBz$JCz$KCz$Lz$LCz$z$jBz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$jBz$UCz$VCz$OCz$WCz$XCz$YCz$ZCz$aCz$z$jBz$bCz$cCz$OCz$dCz$eCz$fCz$gCz$hCz$z$jBz$yBz$iCz$jCz$kCz$sBz$lCz$iCz$mCz$nCz$oCz$z$jBz$pCz$qCz$OCz$WCz$XCz$rCz$ZCz$aCz$z$jBz$kBz$sCz$tCz$kCz$sBz$uCz$sCz$vCz$nCz$oCz$z$jBz$vBz$wCz$xCz$yCz$z$jBz$ADz$BDz$jCz$CDz$DDz$EDz$z$jBz$FDz$GDz$HDz$IDz$JDz$z$KDz$LDz$MDz$iBz$z$NDz$dBz$ODz$PDz$z$gBz$hBz$iBz$z$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$z$YDz$ZDz$aDz$bDz$cDz$z$dDz$eDz$z$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$Tz$z$YDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$z$YDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$iDz$jDz$kDz$FEz$z$YDz$GEz$HEz$IEz$JEz$KEz$DEz$EEz$iDz$jDz$kDz$FEz$z$YDz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$yDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$kDz$gEz$hEz$EEz$iDz$jDz$kDz$FEz$z$YDz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$oDz$qEz$rEz$z$sEz$tEz$rDz$sDz$tDz$uDz$z$uEz$z$YDz$vEz$wEz$z$YDz$vEz$xEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$AFz$BFz$CFz$z$YDz$vEz$DFz$Fz$Fz$EFz$FFz$GFz$HFz$z$YDz$vEz$xEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$AFz$BFz$CFz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$IFz$JFz$KFz$uDz$LFz$MFz$NFz$z$YDz$vEz$DFz$OFz$JFz$KFz$uDz$PFz$QFz$TCz$z$YDz$vEz$DFz$RFz$JFz$KFz$uDz$SFz$TFz$UFz$z$YDz$vEz$DFz$VFz$JFz$KFz$uDz$WFz$TFz$UFz$z$YDz$vEz$DFz$XFz$JFz$KFz$uDz$YFz$ZFz$TCz$z$YDz$vEz$DFz$aFz$JFz$KFz$uDz$bFz$cFz$TCz$z$YDz$vEz$DFz$dFz$eFz$fFz$gFz$hFz$kDz$iFz$z$YDz$vEz$wEz$z$YDz$vEz$xEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$AFz$BFz$CFz$z$YDz$vEz$DFz$jFz$kFz$lFz$z$YDz$vEz$xEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$yEz$AFz$BFz$CFz$z$YDz$vEz$wEz$z$mFz$nFz$DFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$SEz$AGz$z$YDz$vEz$wEz$z$BGz$CGz$DGz$uDz$EGz$z$FGz$z$YDz$GGz$HGz$IGz$JGz$KGz$pEz$oDz$qEz$LGz$MGz$NGz$OGz$PGz$QGz$SEz$RGz$SGz$TGz$UGz$NGz$OGz$PGz$QGz$SEz$AGz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$kGz$lGz$mGz$TCz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$DHz$z$YDz$EHz$FHz$FHz$GHz$rDz$sDz$tDz$uDz$HHz$IHz$JHz$KHz$yFz$LHz$KGz$MHz$NHz$OHz$IHz$JHz$KHz$yFz$LHz$rEz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$PHz$TFz$UFz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$QHz$z$YDz$EHz$RHz$IGz$JGz$KGz$pEz$oDz$qEz$LGz$MGz$NGz$OGz$PGz$QGz$SEz$RGz$SGz$TGz$UGz$NGz$OGz$PGz$QGz$SEz$AGz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$SHz$THz$UHz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$VHz$z$YDz$EHz$WHz$FHz$GHz$rDz$sDz$tDz$uDz$HHz$IHz$JHz$KHz$yFz$LHz$KGz$MHz$NHz$OHz$IHz$JHz$KHz$yFz$LHz$rEz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$XHz$THz$UHz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$YHz$z$YDz$EHz$ZHz$aHz$bHz$cHz$dHz$jEz$SEz$eHz$fHz$gHz$hHz$iHz$jHz$kDz$kHz$lHz$mHz$nHz$gHz$hHz$iHz$jHz$kDz$FEz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$PHz$oHz$UFz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$pHz$z$YDz$EHz$qHz$FHz$GHz$rDz$sDz$tDz$uDz$HHz$IHz$JHz$KHz$yFz$LHz$KGz$MHz$NHz$OHz$IHz$JHz$KHz$yFz$LHz$rEz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$gGz$hGz$z$YDz$vEz$DFz$eGz$fGz$kDz$iGz$jGz$PHz$rHz$iFz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$sHz$z$tHz$uHz$NGz$OGz$PGz$QGz$SEz$AGz$z$YDz$VGz$WGz$XGz$YGz$SEz$ZGz$aGz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$YDz$vEz$wEz$z$YDz$vEz$DFz$eGz$fGz$kDz$vHz$wHz$xHz$TCz$z$YDz$vEz$wEz$z$YDz$vEz$bGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$cGz$dGz$z$nGz$oGz$OGz$pGz$qGz$rGz$sGz$tGz$uGz$z$nGz$oGz$OGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$z$yHz$z$AIz$z$CHz$z$BIz$z$YDz$CIz$pFz$DIz$EIz$FIz$GIz$HIz$IIz$TCz$z$CHz$z$JIz$z$mFz$KIz$LIz$mEz$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$z$AIz"
+#!/bin/bash
+
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+# // Export Banner Status Information
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+
+# // Export Align
+export BOLD="\e[1m"
+export WARNING="${RED}\e[5m"
+export UNDERLINE="\e[4m"
+
+
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- icanhazip.com);
+echo "Checking VPS"
+clear
+if [ ! -e /usr/bin/reboot ]; then
+echo '#!/bin/bash' > /usr/bin/reboot
+echo 'tanggal=$(date +"%m-%d-%Y")' >> /usr/bin/reboot
+echo 'waktu=$(date +"%T")' >> /usr/bin/reboot
+echo 'echo "Server successfully rebooted on the date of $tanggal hit $waktu." >> /root/log-reboot.txt' >> /usr/bin/reboot
+echo '/sbin/shutdown -r now' >> /usr/bin/reboot
+chmod +x /usr/bin/reboot
+fi
+
+echo -e ""
+echo -e "------------------------------------" | lolcat
+echo -e "             AUTO REBOOT"
+echo -e "------------------------------------" | lolcat
+echo -e ""
+echo -e "    1)  Auto Reboot 30 Minutes"
+echo -e "    2)  Auto Reboot 1 Hours"
+echo -e "    3)  Auto Reboot 12 Hours"
+echo -e "    4)  Auto Reboot 24 Hours"
+echo -e "    5)  Auto Reboot 1 Weeks"
+echo -e "    6)  Auto Reboot 1 Mount"
+echo -e "    7)  Turn Off Auto Reboot"
+echo -e ""
+echo -e "------------------------------------" | lolcat
+echo -e "    x)   MENU"
+echo -e "------------------------------------" | lolcat
+echo -e ""
+read -p "     Please Input Number  [1-7 or x] :  "  autoreboot
+echo -e ""
+case $autoreboot in
+1)
+echo "*/30 * * * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 30 Minutes"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+2)
+echo "0 * * * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 1 Hours"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+3)
+echo "0 */12 * * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 12 Hours"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+4)
+echo "0 0 * * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 24 Hours"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+5)
+echo "0 0 */7 * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 1 Weeks"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+6)
+echo "0 0 1 * * root /usr/bin/reboot" > /etc/cron.d/auto_reboot && chmod +x /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot : On"
+echo -e "      AutoReboot Every : 1 Mount"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+7)
+rm -fr /etc/cron.d/auto_reboot
+echo "" > /root/log-reboot.txt
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e "      AutoReboot Turned Off"
+echo -e ""
+echo -e "======================================"
+service cron reload >/dev/null 2>&1
+service cron restart >/dev/null 2>&1
+;;
+x)
+menu
+;;
+*)
+echo "Please enter an correct number"
+;;
+esac
+read -n 1 -s -r -p "Press any key to back on menu"
+
+menu

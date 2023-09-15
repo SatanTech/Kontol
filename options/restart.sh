@@ -1,3 +1,172 @@
-z="
-";Wz='='\''\0';mz='BICy';HBz='101m';PHz=';;';YGz='art';CEz='22\e';gBz='NC='\''';TFz='pbea';tz='Whit';jCz='NG="';KCz='C='\''\';WBz='IBlu';VBz='93m'\''';rCz='SEND';jDz='"\03';iGz='x re';Tz='n';tHz='s an';GHz='7300';JFz='tart';JCz='rt N';yFz='t in';AHz=' --m';sDz=' SSL';SGz='&1';CCz='0;35';ZGz='drop';sHz='Pres';VCz='NFO=';NDz='LOR1';VHz='ted ';IEz='rt X';ODz='┌───';DEz='SH D';SBz='2m'\'' ';bFz='nx"';tGz='sten';qEz='""';GGz='.ser';Uz='BIYe';sCz='ECEI';iHz='00';mDz='SH W';EDz='[5m"';oCz=']"';ZCz=' ${N';Zz=''\''   ';NFz='s"';HEz='143\';CGz='emct';nHz='esac';ZBz='IPur';uz='e';fCz='KEY ';cHz='inx ';XGz='rest';FDz='rt U';lCz='W} P';GFz='"   ';NBz='IRed';BGz='syst';jz=';95m';oBz='rt G';Yz=';93m';sz='97m'\''';mHz='menu';kDz='93m ';Dz='3[1;';fDz='1│$N';qCz='END=';Az='BIBl';rBz='rt Y';kz='Purp';VEz='rt T';kCz='[${Y';Kz='d='\''\';aCz='C}]"';WFz=' Stu';yz='7m'\'' ';eEz='RPC ';bHz='  Ng';cFz=' [6]';HDz='LINE';aBz='ple=';OBz='33[0';nGz='badv';LFz=' Ser';wGz='7.0.';fFz=' [x]';eBz='0;96';IBz=''\''';eDz='OLOR';cGz='stun';MBz='0m'\'' ';WCz='YELL';Fz='    ';FHz='7200';PCz='RED}';fGz='2ban';Mz='1;91';WHz='3)';TEz='C   ';FFz='==="';fEz='94m ';lFz='ect ';Xz='33[1';AGz='1)';bEz='wSoc';uDz='e[0m';RHz='  SS';GDz='NDER';lBz='ED='\''';eHz='arte';PEz=' Non';vDz='SH S';UCz='rt I';mBz='[0;3';mEz='ge P';wEz='an F';LHz='   S';Jz='BIRe';wFz=' $Re';wDz='SL  ';UEz='less';aGz='bear';dCz='GREE';RFz=' [3]';rz='ite=';nFz=' Opt';uEz='t By';BFz='clea';GEz='109,';oGz='pn b';ECz='YAN=';xz='[4;3';MHz='ce/s';tFz='slee';pEz='m"';OHz='   "';bz='ow';kGz='scre';WGz='ssh ';MGz='ay.s';RDz='}"';hFz='u"';MDz='"$CO';jBz='expo';FEz='ear ';fz='4m'\'' ';pGz='advp';yHz=' men';vCz='VE $';aFz=' Ngi';eFz='vpn"';vEz=' Sat';BEz='SH  ';DCz='rt C';LBz='[0;9';xFz='star';FBz='Red=';hHz='ts 5';sGz='--li';xDz='222,';LCz='0m'\''';dBz='n='\''\';lHz='x)';cCz='KEY=';nEz='ort<';jFz=' -p ';Nz='m'\''  ';KDz='echo';qBz=';32m';AFz='0m"';OGz='ce >';dFz=' Bad';NHz='ed  ';SFz=' Dro';Qz='een=';hEz='Serv';IDz='="\e';xBz='34m'\''';yGz='7100';kFz=' Sel';ACz='URPL';XEz='n WS';ZHz='5 Se';bDz='ATIO';cz='ue='\''';rDz='[0m"';KHz='ce';XBz='e='\''\';aEz='hado';ZEz='PC  ';SDz='│${N';aHz='5)';UHz='e Re';yBz='rt P';DBz='05m'\''';VFz=' [4]';hz='BIPu';XCz='OW} ';Hz='Blac';BDz='ARNI';REz='S   ';qz='BIWh';JDz='[4m"';rEz='97mA';HFz=' [1]';xCz='"\e[';ZFz=' [5]';XHz='Drop';dz='\033';vGz='r 12';TBz='IYel';UGz='/ini';xEz='usio';Bz='ack=';lGz='en -';FCz='36m'\''';uFz='p 1';CHz='lien';tCz='VE="';CBz='[0;1';xGz='0.1:';YBz='0;94';XFz='nnel';JBz='IBla';YEz='n GR';DGz='l re';dHz='Rest';EEz='ropb';BBz='le='\''';jHz='vpn ';QHz='2)';pFz=' [1-';JEz='ray ';UBz='low=';dEz='ks G';KEz='None';eCz='N} O';ez='[1;9';QGz='/nul';YCz='INFO';Gz='  # ';iBz='m'\''';cEz='ks W';IFz=' Res';hCz='}]"';WDz='  SE';bBz='95m'\''';QEz='e TL';Ez='90m'\''';PGz='/dev';EFz='====';sFz=':  "';QBz='IGre';kEz='ort ';HCz='IGHT';DFz='"===';bGz=' res';cDz='N   ';xHz='k on';hGz='ngin';nz='an='\''';TDz='C} $';sBz='ELLO';YFz='5"';yCz='1m"';RCz='R ${';bCz='rt O';oEz='<<< ';HHz='t rc';iz='rple';YDz=' POR';yDz='777\';PDz='────';XDz='RVER';OEz='mess';PBz=';91m';AEz='penS';WEz='roja';wCz='OLD=';gCz='${NC';NGz='ervi';EHz='000';qFz='6 or';hDz='└───';wHz=' bac';jEz='Supp';gDz='C"';NCz='ROR=';MCz='rt E';rGz='pgw ';gGz='cron';Lz='033[';KFz=' All';FGz='-stu';uCz='W} R';NEz='rt V';jGz='t';LDz=' -e ';Oz='Red';pBz='REEN';mGz='dmS ';BHz='ax-c';gFz=' Men';fBz='IWhi';wBz='LUE=';RBz='en='\''';aDz='FORM';ZDz='T IN';Pz='BIGr';Vz='llow';sEz='utos';lz='le';LEz=' TLS';uGz='-add';MEz='TLS ';TGz='/etc';GBz='3[0;';qGz='n-ud';vz='UWhi';gEz='>>>>';EGz='t ws';uHz='y ke';OFz=' [2]';QCz=' ERO';hBz='\e[0';DDz='D}\e';LGz='t xr';RGz='l 2>';CFz='r';tBz='W='\''\';ADz='rt W';JHz='al.s';yEz='n\e[';QFz='nSSH';YHz='4)';pCz='rt S';rHz='-p "';Rz='92m'\''';dGz='nel5';kBz='rt R';iCz='ENDI';oz='6m'\'' ';VGz='t.d/';qHz=' -r ';IGz='ev/n';vHz='y to';Cz=''\''\03';kHz='d  "';QDz='───┐';nCz='{NC}';VDz='BG1}';UDz='{COL';vFz='case';tEz='crip';lDz=' >Po';cBz='ICya';nDz='ebso';iFz='read';mCz='NG $';az='Yell';gHz='6)';oHz=' -n ';TCz='"';DHz='ts 1';vBz='rt B';dDz='} $C';ICz=';37m';UFz='r"';lEz='Chan';MFz='vice';uBz='0;33';GCz='rt L';EBz='  #';SEz=' GRP';SCz='NC}]';nBz='1m'\''';rFz=' x] ';iEz='ice ';oFz='ions';gz='Blue';HGz=' >/d';OCz='"[${';ABz='On_I';CDz='${RE';Sz='Gree';THz='rvic';SHz='H Se';tDz='443\';mFz='From';pHz='1 -s';KGz='2>&1';Iz='k';oDz='cket';pz='Cyan';pDz='   :';JGz='ull ';qDz='80\e';PFz=' Ope';IHz='-loc';eGz='fail';wz='te='\''';KBz='ck='\''';BCz='E='\''\';iDz='───┘';fHz='d   ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Fz$Gz$Oz$z$Pz$Qz$Cz$Dz$Rz$Fz$Gz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$Gz$az$bz$z$Az$cz$dz$ez$fz$Fz$Gz$gz$z$hz$iz$Wz$Xz$jz$Zz$Gz$kz$lz$z$mz$nz$dz$ez$oz$Fz$Gz$pz$z$qz$rz$Cz$Dz$sz$Fz$Gz$tz$uz$z$vz$wz$dz$xz$yz$Fz$Gz$tz$uz$z$ABz$kz$BBz$dz$CBz$DBz$EBz$z$ABz$FBz$Cz$GBz$HBz$IBz$z$JBz$KBz$dz$LBz$MBz$Fz$Gz$Hz$Iz$z$NBz$Wz$OBz$PBz$Zz$Fz$Gz$Oz$z$QBz$RBz$dz$LBz$SBz$Fz$Gz$Sz$Tz$z$TBz$UBz$Cz$GBz$VBz$Fz$Gz$az$bz$z$WBz$XBz$Lz$YBz$Nz$Fz$Gz$gz$z$ZBz$aBz$Cz$GBz$bBz$Fz$Gz$kz$lz$z$cBz$dBz$Lz$eBz$Nz$Fz$Gz$pz$z$fBz$wz$dz$LBz$yz$Fz$Gz$tz$uz$z$gBz$hBz$iBz$z$jBz$kBz$lBz$dz$mBz$nBz$z$jBz$oBz$pBz$Wz$OBz$qBz$IBz$z$jBz$rBz$sBz$tBz$Lz$uBz$iBz$z$jBz$vBz$wBz$Cz$GBz$xBz$z$jBz$yBz$ACz$BCz$Lz$CCz$iBz$z$jBz$DCz$ECz$Cz$GBz$FCz$z$jBz$GCz$HCz$Wz$OBz$ICz$IBz$z$jBz$JCz$KCz$Lz$LCz$z$jBz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$jBz$UCz$VCz$OCz$WCz$XCz$YCz$ZCz$aCz$z$jBz$bCz$cCz$OCz$dCz$eCz$fCz$gCz$hCz$z$jBz$yBz$iCz$jCz$kCz$sBz$lCz$iCz$mCz$nCz$oCz$z$jBz$pCz$qCz$OCz$WCz$XCz$rCz$ZCz$aCz$z$jBz$kBz$sCz$tCz$kCz$sBz$uCz$sCz$vCz$nCz$oCz$z$jBz$vBz$wCz$xCz$yCz$z$jBz$ADz$BDz$jCz$CDz$DDz$EDz$z$jBz$FDz$GDz$HDz$IDz$JDz$z$KDz$LDz$MDz$NDz$ODz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$QDz$gCz$RDz$z$KDz$LDz$MDz$NDz$SDz$TDz$UDz$VDz$Fz$Fz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$Fz$gCz$dDz$eDz$fDz$gDz$z$KDz$LDz$MDz$NDz$hDz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$PDz$iDz$gCz$RDz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$mDz$nDz$oDz$Fz$pDz$qDz$rDz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$mDz$nDz$oDz$sDz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$vDz$wDz$Fz$Fz$pDz$xDz$yDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$bCz$AEz$BEz$Fz$Fz$pDz$CEz$rDz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$DEz$EEz$FEz$Fz$pDz$GEz$HEz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$IEz$JEz$KEz$LEz$Fz$pDz$qDz$rDz$z$KDz$LDz$jDz$Dz$kDz$lDz$IEz$JEz$MEz$Fz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$OEz$PEz$QEz$REz$pDz$qDz$rDz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$OEz$LEz$Fz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$OEz$SEz$TEz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$UEz$PEz$QEz$REz$pDz$qDz$rDz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$UEz$LEz$Fz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$NEz$UEz$SEz$TEz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$VEz$WEz$XEz$Fz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$VEz$WEz$YEz$ZEz$Fz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$aEz$bEz$cEz$REz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$kDz$lDz$pCz$aEz$bEz$dEz$eEz$pDz$tDz$uDz$TCz$z$KDz$LDz$jDz$Dz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$hBz$pEz$z$KDz$LDz$qEz$z$KDz$LDz$jDz$Dz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$z$KDz$LDz$qEz$z$BFz$CFz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$z$KDz$LDz$GFz$OFz$IFz$JFz$PFz$QFz$TCz$z$KDz$LDz$GFz$RFz$IFz$JFz$SFz$TFz$UFz$z$KDz$LDz$GFz$VFz$IFz$JFz$WFz$XFz$YFz$z$KDz$LDz$GFz$ZFz$IFz$JFz$aFz$bFz$z$KDz$LDz$GFz$cFz$IFz$JFz$dFz$eFz$z$KDz$LDz$GFz$fFz$gFz$hFz$z$KDz$LDz$qEz$z$iFz$jFz$GFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$IFz$JFz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$tFz$uFz$z$BFz$CFz$z$vFz$wFz$xFz$yFz$z$AGz$z$BFz$CFz$z$BGz$CGz$DGz$xFz$EGz$FGz$XFz$GGz$MFz$HGz$IGz$JGz$KGz$z$BGz$CGz$DGz$xFz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$z$TGz$UGz$VGz$WGz$XGz$YGz$z$TGz$UGz$VGz$ZGz$aGz$bGz$JFz$z$TGz$UGz$VGz$cGz$dGz$bGz$JFz$z$TGz$UGz$VGz$eGz$fGz$bGz$JFz$z$TGz$UGz$VGz$gGz$bGz$JFz$z$TGz$UGz$VGz$hGz$iGz$xFz$jGz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$FHz$AHz$BHz$CHz$DHz$EHz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$GHz$AHz$BHz$CHz$DHz$EHz$z$BGz$CGz$DGz$xFz$HHz$IHz$JHz$NGz$KHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$Fz$LHz$NGz$MHz$IFz$JFz$NHz$Fz$OHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$QHz$z$BFz$CFz$z$TGz$UGz$VGz$WGz$XGz$YGz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$Fz$RHz$SHz$THz$UHz$xFz$VHz$Fz$OHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$WHz$z$BFz$CFz$z$TGz$UGz$VGz$ZGz$aGz$bGz$JFz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$Fz$XHz$aGz$LFz$MFz$IFz$JFz$NHz$OHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$YHz$z$BFz$CFz$z$TGz$UGz$VGz$cGz$dGz$bGz$JFz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$Fz$WFz$XFz$ZHz$THz$UHz$xFz$VHz$OHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$aHz$z$BFz$CFz$z$TGz$UGz$VGz$hGz$iGz$xFz$jGz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$Fz$bHz$cHz$hEz$iEz$dHz$eHz$fHz$OHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$gHz$z$BFz$CFz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$hHz$iHz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$FHz$AHz$BHz$CHz$hHz$iHz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$GHz$AHz$BHz$CHz$hHz$iHz$z$BGz$CGz$DGz$xFz$HHz$IHz$JHz$NGz$OGz$PGz$QGz$RGz$SGz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$KDz$LDz$qEz$z$KDz$LDz$GFz$dFz$jHz$dFz$jHz$hEz$iEz$dHz$eHz$kHz$z$KDz$LDz$qEz$z$KDz$LDz$DFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$EFz$FFz$z$PHz$z$lHz$z$BFz$CFz$z$mHz$z$PHz$z$nHz$z$iFz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$hFz$z$mHz"
+#!/bin/bash
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+# // Export Banner Status Information
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+
+# // Export Align
+export BOLD="\e[1m"
+export WARNING="${RED}\e[5m"
+export UNDERLINE="\e[4m"
+
+echo -e "$COLOR1┌──────────────────────────────────────────┐${NC}"
+echo -e "$COLOR1│${NC} ${COLBG1}          SERVER PORT INFORMATION       ${NC} $COLOR1│$NC"       
+echo -e "$COLOR1└──────────────────────────────────────────┘${NC}"
+echo -e "\033[1;93m  >Port SSH Websocket       :80\e[0m"
+echo -e "\033[1;93m  >Port SSH Websocket SSL   :443\e[0m"
+echo -e "\033[1;93m  >Port SSH SSL             :222,777\e[0m"
+echo -e "\033[1;93m  >Port OpenSSH             :22\e[0m"
+echo -e "\033[1;93m  >Port SSH Dropbear        :109,143\e[0m"
+echo -e "\033[1;93m  >Port Xray None TLS       :80\e[0m"
+echo -e "\033[1;93m  >Port Xray TLS            :443\e[0m"
+echo -e "\033[1;93m  >Port Vmess None TLS      :80\e[0m"
+echo -e "\033[1;93m  >Port Vmess TLS           :443\e[0m"
+echo -e "\033[1;93m  >Port Vmess GRPC          :443\e[0m"
+echo -e "\033[1;93m  >Port Vless None TLS      :80\e[0m"
+echo -e "\033[1;93m  >Port Vless TLS           :443\e[0m"
+echo -e "\033[1;93m  >Port Vless GRPC          :443\e[0m"
+echo -e "\033[1;93m  >Port Trojan WS           :443\e[0m"
+echo -e "\033[1;93m  >Port Trojan GRPC         :443\e[0m"
+echo -e "\033[1;93m  >Port ShadowSocks WS      :443\e[0m"
+echo -e "\033[1;93m  >Port ShadowSocks GRPC    :443\e[0m"
+echo -e "\033[1;94m >>>>Service Support Change Port<<<< \e[0m"
+echo -e ""
+echo -e "\033[1;97mAutoscript By Satan Fusion\e[0m"
+echo -e ""
+
+clear
+echo -e ""
+echo -e "======================================"
+echo -e ""
+echo -e ""
+echo -e "    [1] Restart All Services"
+echo -e "    [2] Restart OpenSSH"
+echo -e "    [3] Restart Dropbear"
+echo -e "    [4] Restart Stunnel5"
+echo -e "    [5] Restart Nginx"
+echo -e "    [6] Restart Badvpn"
+echo -e "    [x] Menu"
+echo -e ""
+read -p "    Select From Options [1-6 or x] :  " Restart
+echo -e ""
+echo -e "======================================"
+sleep 1
+clear
+case $Restart in
+                1)
+                clear
+                #systemctl restart ws-dropbear.service >/dev/null 2>&1
+                systemctl restart ws-stunnel.service >/dev/null 2>&1
+                systemctl restart xray.service >/dev/null 2>&1
+                /etc/init.d/ssh restart
+                /etc/init.d/dropbear restart
+                /etc/init.d/stunnel5 restart
+                /etc/init.d/fail2ban restart
+                /etc/init.d/cron restart
+                /etc/init.d/nginx restart
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7100 --max-clients 1000
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7200 --max-clients 1000
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 1000
+                systemctl restart rc-local.service
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "          Service/s Restarted         "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                2)
+                clear
+                /etc/init.d/ssh restart
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "         SSH Service Restarted        "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                3)
+                clear
+                /etc/init.d/dropbear restart
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "       Dropbear Service Restarted     "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                4)
+                clear
+                /etc/init.d/stunnel5 restart
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "        Stunnel5 Service Restarted    "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                5)
+                clear
+                /etc/init.d/nginx restart
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "         Nginx Service Restarted      "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                6)
+                clear
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7100 --max-clients 500
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7200 --max-clients 500
+                screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 500
+                systemctl restart rc-local.service >/dev/null 2>&1
+                echo -e ""
+                echo -e "======================================"
+                echo -e ""
+                echo -e "    Badvpn  Badvpn Service Restarted  "
+                echo -e ""
+                echo -e "======================================"
+                ;;
+                x)
+                clear
+                menu
+                ;;
+        esac
+read -n 1 -s -r -p "Press any key to back on menu"
+
+menu
