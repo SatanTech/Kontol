@@ -1,3 +1,390 @@
-z="
-";fFz='MYIP';IDz='NG $';rCz='YELL';mOz='nk}"';jPz='om/u';JPz=' to ';sSz='ar/l';KHz='an';lHz=' -ne';cTz='t)';DRz='S═══';ZXz=' ; a';QQz='ser}';bEz='exp=';sUz=' use';eHz='t !"';rKz='" | ';GGz=' gre';UFz='$use';cBz='ICya';rUz=' : "';jVz='t Na';FBz='Red=';hOz='ss-g';vIz=' 1';pXz='5) c';NQz='{dom';FUz='D}On';TUz='r.tx';uMz='mp/l';TTz='xt';fHz='exit';SHz='date';HDz='W} P';wTz=' 2 |';kEz='mp" ';OWz='│   ';bDz='NDER';nEz='`dat';GXz='AY  ';mPz='akti';wOz='PN A';PMz='$/a\';NGz='r/lo';xRz='iq`)';jBz='gree';xHz=' ipv';tFz='ubus';fDz='BURI';cOz='h   ';CCz='\\03';sNz='er}"';pRz=' cek';BJz='t to';LYz='ack ';LDz='rt S';rSz='t /v';EIz='NUMB';Kz='d='\''\';EMz=',"me';pVz='n  :';AQz='ini:';IQz='host';cFz='done';vNz='═XRA';IGz='YIP ';kRz='y to';PLz=' 11-';GVz='(dat';ANz='//${';oDz='hubu';NDz='SEND';gNz=';mux';AXz='e}5$';ZMz='g';PKz='NT_N';ZRz=' "" ';DPz='1 -s';cUz='lumn';bRz='e -a';UWz='NC"';ZFz='l 2>';QIz='n")';Mz='1;91';COz='  : ';uVz='te S';aOz='rpc"';Iz='k';lJz='} -g';YBz='0;94';nRz=' men';HXz='e}6$';rQz='ice ';qLz='/#ss';xLz='},{"';GBz='3[0;';UOz='aes-';FWz='d" /';TVz='d "$';qEz='xp" ';MTz='iq)';lCz=' ERO';kUz='er t';IFz='e "0';dGz=' the';OSz='mp/i';BGz='perm';CMz=''\''""$';PEz='k '\''{';pHz='tion';eVz='ucce';cGz='" ];';rPz=' day';AYz='x) e';KXz='] Ba';hIz='il X';fJz='unti';yz='7m'\'' ';JQz='=${d';yLz='pass';mBz='ho -';ZNz='e64e';pQz='ll 2';TJz='c/xr';JOz='S   ';CFz='2) /';CQz='path';oBz='[32;';sVz=' del';ACz='1;1m';GFz='[ "$';qTz='l -n';FOz='ain ';HTz='p://';UGz='ne=$';cVz='nt W';MNz='s;ho';PBz=';91m';uKz='-f2|';xTz='l -1';WFz='i > ';JFz='" ]]';cCz='IGHT';pIz='ve n';kBz='n() ';JIz=' -c ';yCz='GREE';GLz='=$(g';LWz='┌───';qGz='Acce';NOz='"Pas';NLz='son ';IYz='any ';TFz='tc/.';hJz=' ${C';KPz='back';RXz='" Se';LPz=' on ';YHz='ript';lSz=');';VVz='er/c';VNz='{sha';kXz='elws';MYz='on m';RBz='en='\''';fSz='/g'\'' ';VCz='URPL';SWz='MENU';XJz='on" ';iRz='s an';XVz='er $';GQz='ity=';lMz='4}" ';FCz='expo';uUz='r ];';VBz='93m'\''';tUz=' -z ';CJz=' vie';tCz='INFO';dPz='er="';qUz='name';DYz='cho ';GPz='   P';nPz='f=1';ALz='doma';LKz='BER_';pBz='1m${';RLz=' sed';eCz='rt N';sLz='a\##';ZVz='odos';CVz='now=';qCz='NFO=';RNz='r}"';pTz=' tai';lPz='masa';eQz='sni=';SVz='te -';AVz='wE "';uLz='r $e';dFz='f /r';nNz='ost=';KDz=']"';dLz='| se';CSz='---=';hz='BIPu';WXz='t in';wIz=' " S';KLz='ray/';nCz='NC}]';cSz='3 | ';gLz='R}"p';gQz='com#';OUz='"$ju';fWz='{BIC';HIz='IENT';hKz='ER}"';AMz='word';pPz='asaa';UPz='/ura';HFz='" -l';BTz='-n 5';EUz='un} ';JUz='${la';BFz=' - d';gFz='=$(c';QFz='else';QYz=' 1 ;';JLz='tc/x';eJz=''\'') '\''';EKz=' one';RQz='}@${';cLz='f 3 ';aWz='"   ';UDz='1m"';kWz='Acco';XRz=': $e';aTz='m2/d';ZEz='@]}"';QXz='─┘${';DJz='w th';IBz=''\''';vBz='echo';ZJz='t -d';xGz=' awk';ZCz='YAN=';ICz='[0;3';LTz='$ip"';FHz=' "$M';cNz='3?pl';PCz='W='\''\';KUz='stlo';wFz='t.co';SIz='S} =';wQz='null';DBz='05m'\''';DDz='}]"';YOz='work';LSz='="ti';dz='\033';aPz=' hea';fUz='rt |';CTz='00 |';rGz='pted';uWz='] De';lTz='cess';lKz='at ~';MXz='o Me';UCz='rt P';CHz=''\'' | ';CPz='NC}"';vRz='ort ';ORz=': ws';rLz='ws$/';IUz='C}: ';iWz=' Sha';ISz='[ -z';QCz='0;33';SUz='othe';mUz='k"';Xz='33[1';oFz='Name';tGz='PERM';WGz='ni)';sBz=' }';qHz=' det';xWz='] Re';cEz='( `g';sXz='6) c';FEz='=( `';xCz='KEY=';dRz='g-cr';sMz='$(ca';DSz='[ XR';vHz='get ';vz='UWhi';CGz='issi';mKz='/log';ARz='34m═';uSz='acce';hSz='1 | ';fCz='C='\''\';hEz='er" ';LEz=' -E ';vGz='ON (';jz=';95m';uJz='CLIE';JSz=' "$a';bKz=' -d ';dDz='="\e';gKz='n "$';VMz=':$uu';bUz='| co';DFz=' 864';nDz='.git';LFz='en';OFz='c/.$';dHz='firs';EJz='e co';IVz='d2=$';Jz='BIRe';aNz='}@$d';VXz=' $op';rHz='ails';sKz='cut ';oHz='func';lRz=' bac';DGz='on/m';oCz='"';hXz=' ;;';ADz='N} O';WQz='urit';VKz='fig.';HBz='101m';sDz='om/S';yEz='=$((';URz='-grp';pSz=']}"';MUz=' wib';OYz=' ; s';tOz='gs P';EBz='  #';uQz='tart';NFz=' /et';SSz='2=( ';SOz='"Cip';eIz='  Ch';nQz=' /de';EOz='"Dom';pz='Cyan';gTz='last';RIz='[ ${';rTz=' 500';nIz=' "Yo';HPz=' any';SLz=' -n ';TOz='ers ';Az='BIBl';FXz='e XR';gCz='0m'\''';vXz='s ;;';BKz=' -rp';pDz='serc';QBz='IGre';yHz='4.ic';tz='Whit';oXz='ws;;';PHz='/hom';rEz='+%s`';rJz='-le ';KMz='l": ';PDz='VE="';RGz='me.i';VIz='"\03';AUz='r :$';UXz='case';RHz='edup';yXz='enu ';xDz='ion/';hLz='hari';oLz='"`';vEz=' +%s';ZLz='" "/';LJz='n"';uFz='erco';DTz='" " ';bSz='500 ';QPz='ws()';YWz='n┌──';ZBz='IPur';FMz='thod';uHz='=$(w';mWz='e}2$';XOz='"Net';XTz='xt)';aEz='do';GIz='F_CL';IEz='t/tm';KIz=' " "';jCz='"[${';RVz='=`da';YQz='s&ty';iUz='"tap';XHz='r sc';FQz='ecur';GHz='YIP"';AOz='"Rem';eDz='[4m"';NCz='rt Y';hRz='Pres';eGz='CekT';OHz='ON';hBz='\e[0';iLz='ini=';qNz='tls#';PXz='an}└';YXz='lear';PGz='etc/';WOz='gcm"';OTz=' "$j';iPz='rand';BUz='{GRE';EPz=' -r ';xMz='ink=';cMz='cks_';aCz='36m'\''';lIz='[0m"';oVz='ed O';qWz='ck A';qBz='*}\\';MIz='/xra';YJz='| cu';DVz='$(da';TGz='CekO';lGz='res=';dEz='rep ';VGz='(cat';mz='BICy';MCz=';32m';xOz='uto ';HWz='elet';rOz='nk1}';wWz='e}4$';YSz='s.lo';UJz='ay/c';FDz='NG="';oEz='e -d';XUz=' Ren';dCz=';37m';XIz='━━━━';kNz='me=s';RJz='pire';PWz=' SSW';hWz='] Cr';iOz='"Lin';nLz='m-%d';NPz='-ss';LUz='gin}';nJz='&& $';bXz='sws ';sPz='s" +';SCz='LUE=';nOz='} "';tJz='_OF_';iIz='RAY ';aIz='"\\E';jJz='T_NU';CUz='EN} ';QSz='y.tx';KBz='ck='\''';OKz=': " ';YVz='son';KGz=' $Na';DMz='""'\''"';tLz='# '\''"';qOz=' "';HCz='ED='\''';eTz='xt |';NKz='TS}]';aBz='ple=';tBz='red(';PNz='ls#$';EHz='IP)';UHz='then';HMz='er""';HYz='ess ';dOz='/ss-';TIz='= '\''0';Qz='een=';jUz=' ent';NSz='da"';HLz='"},{';Bz='ack=';RFz='rm -';QTz='>> /';nUz=' "In';nBz='e "\';bHz=' upd';yFz='tanT';ETz='-f 3';iEz='"/ro';rVz='p4"';iHz=' [ "';ENz='?plu';QMz=''\''"$u';eUz='| so';QKz='UMBE';nTz='$aku';SPz='=tri';OPz=' tri';ODz='ECEI';gIz='Deta';WRz='k gR';gRz='r.lo';Zz=''\''   ';VUz='ewws';sRz='ther';CDz='${NC';eFz='}';SQz='in}:';YPz='X-Z0';ZIz='m"';GUz='line';pOz='PC :';NXz='nu  ';YNz='_bas';gDz='Q ()';oWz='ial ';YGz='an (';iz='rple';qQz='>&1';jTz='/var';dIz='m   ';AIz='anha';uz='e';fBz='IWhi';FLz='uuid';mFz='ip.c';eWz='e}1$';lFz='nhaz';ZWz='─┐${';TEz=')';TSz='`cat';OOz='swor';NIz='y/co';bCz='rt L';QNz='{use';bGz='"/et';BIz='zip.';aVz='ok A';ez='[1;9';kz='Purp';gVz='lly ';YCz='rt C';Wz='='\''\0';XGz='Blom';JMz='emai';aSz='tail';hMz='hado';vLz='xp"'\''';aJz=' '\'' '\''';MMz='r""'\''';vCz='C}]"';rWz='nt  ';iMz='wsoc';CIz='com)';HOz='"Por';RYz='u ;;';KCz='rt G';BLz='in=$';wCz='rt O';FSz='Logi';WCz='E='\''\';MKz='OF_C';cXz=';;';tQz=' res';cQz='iceN';iNz='ervi';VFz='r.in';gSz=' ":"';SJz='d"';fXz='rial';mRz='k on';uPz='%m-%';ILz='" /e';QJz='  Ex';BQz='443?';NJz='   N';WBz='IBlu';ESz='AY U';eKz=' | s';Gz='  # ';UTz=' "$i';aDz='rt U';lLz='" +"';EFz='00 )';NYz='enu"';dWz='${BI';fKz='ed -';RSz='t';OIz='nfig';FTz='ed '\''';kOz='S : ';jDz=' -sS';SKz='at /';lOz='ksli';fOz='"Ser';dKz='-f 2';hCz='rt E';ATz='ail ';nXz='enew';VDz='rt W';tXz='etai';fIz='eck ';tMz='t /t';MVz='2 + ';VEz='user';FIz='ER_O';bWz='  ${';JHz='N" ]';SXz='u : ';Dz='3[1;';bFz='fi';Vz='llow';jKz='tls=';Tz='n';bNz='n:44';QEz='prin';OCz='ELLO';LNz='ss-w';wRz='| un';SBz='2m'\'' ';cRz='c/lo';TKz='xray';XBz='e='\''\';JKz='[1-$';tIz='lien';vVz='k Ac';MRz='PC  ';QRz='c"';wDz='miss';Nz='m'\''  ';xUz='ys):';NNz='st=$';BCz='${*}';XFz='/dev';vJz='NTS}';hUz='q';HSz='akun';ZKz='#'\'' |';wGz='IZIN';oMz=' > /';SGz='ni';vTz='" -f';YFz='/nul';OJz='o  U';cPz='4`';yKz=')"';fz='4m'\'' ';UNz='://$';VSz='g/xr';uRz=' '\''##';tWz='e}3$';LMz='"'\''""';SFz='f /e';fVz='ssfu';BVz='niq)';VJz='onfi';BMz='": "';sOz=' Win';jOz='k TL';tPz='"%Y-';EXz='ctiv';OBz='33[0';fEz='^###';DHz=' $MY';yUz=' " m';HKz='[1]:';WPz=' tr ';OQz='ain}';DXz='er A';IPz=' key';oSz='a2[@';HNz='gin;';WKz='json';CLz='ay/d';tVz='Dele';KJz='etur';IXz='""';ITz='g'\'' |';aRz='| te';uDz='Tech';XXz='1) c';QWz='S PA';qz='BIWh';yNz='}"';pUz='User';jHz='$res';TBz='IYel';WNz='dows';QHz='e/ne';VTz='p" >';QDz='W} R';tTz='ut -';GJz='ress';TMz=' $ci';AEz='/ip ';SDz='OLD=';UUz=' ren';bOz='"Pat';PFz='.ini';DEz='tmp';JVz=' "$n';HRz=': ${';tEz=' "$b';UEz='for ';AJz='e ex';hPz='nel/';mEz='d1=(';gBz='NC='\''';ZOz='ws/g';GSz='n ]=';RUz='rf /';KNz='th=/';YEz='ata[';LHz='Deni';mHz='clea';lXz='4) c';yBz='33[3';fNz='y-pl';WJz='g.js';MJz=' "  ';WVz='\###';PSz='pxra';qMz='log1';mVz=' " E';YIz='━━\0';Uz='BIYe';LRz='t gR';eSz='cp:/';TPz='al`<';qPz='ktif';KQz='n}&t';yTz='"use';uEz='iji"';sJz='${NU';mLz='%Y-%';DQz='=ss-';uNz='════';qXz=' ; c';qKz='-w "';yWz='new ';KKz='{NUM';fQz='bug.';cKz=''\'' '\'' ';YKz=''\''^##';THz=' ]; ';MGz=' /us';nSz='{dat';Rz='92m'\''';sHz='sws(';fPz='/sys';BYz='xit ';jEz='ot/t';pGz='ion ';BNz='64e}';CXz='k Us';qFz='s://';HQz='tls&';eEz='-E "';fGz='wo=$';CWz='# $u';sTz=' | c';ULz='}"p)';Hz='Blac';qRz='> /t';cIz='1;36';GRz='0m"';eBz='0;96';NBz='IRed';MEz='"^##';WDz='ARNI';FPz='-p "';vPz='d"`';yIz='t th';nz='an='\''';XEz='"${d';BOz='arks';JCz='1m'\''';gEz=' $us';vWz='lete';pLz='-i '\''';oTz='n" |';CBz='[0;1';SYz='esac';KYz='to b';kKz='"$(c';JNz='0;pa';iGz='e" =';KWz='p"';SEz='}'\''` ';qDz='onte';KOz='443"';bJz='2-3 ';GYz=' "Pr';vQz='dev/';LLz='conf';vOz='um V';eMz='64=$';MHz='ed!"';ZQz='pe=g';OXz='" ${';gUz=' uni';KSz='kun"';XSz='cces';wXz='0) c';MPz='menu';mXz=' ; r';dVz='as S';STz='ay.t';vMz='og1)';aGz=' -f ';ONz='in;t';LBz='[0;9';RWz='NEL ';WWz='──┘$';FKz=' cli';bBz='95m'\''';bVz='ccou';WMz='id >';RKz='R';PUz='m2";';JDz='{NC}';kPz='uid)';JRz=': 44';NVz='$mas';oIz='u ha';aHz='d to';oGz='"Per';WUz='(){';tDz='atan';TDz='"\e[';yGz=' '\''{p';QVz='exp4';YRz='xp"';SNz='ink1';bLz=' '\'' -';kVz='me :';vSz='ss.l';MWz='────';IJz='L+C ';mIz=' ""';AGz='ech/';oNz='$dom';nHz='r';rz='ite=';hDz=' {';VPz='ndom';VHz='red ';KFz='; th';DNz=':443';kLz='days';AKz='read';SMz='"'\''\';Cz=''\''\03';uXz='lssw';IMz=''\''","';EDz='ENDI';oJz='{CLI';UIz=''\'' ]]';IIz='S=$(';MDz='END=';iXz='3) c';LCz='REEN';WTz='jum2';OLz='t -b';EVz='te +';wMz='cksl';xXz=' ; m';dTz=']]; ';NMz='"'\'' /';KVz='ow" ';FGz='ip |';kCz='RED}';fTz=' nl)';XNz='ocks';IOz='t TL';lNz='s-gr';kHz='" = ';wJz=' ]];';pMz='tmp/';aKz=' cut';uBz=') { ';AHz='rint';jLz=' "0 ';ZSz='g | ';wEz='`)';nVz='xpir';KRz='3"';wBz=' -e ';rBz='0m";';qJz='ER} ';JJz='to r';sGz='..."';Oz='Red';TWz='  │$';xFz='m/Sa';HHz=' = "';uOz='remi';DOz=' On ';TCz='34m'\''';WHz='"You';JGz='}'\'')';rNz='${us';mMz='| ba';nWz='] Tr';wPz='@isi';ZHz=' nee';KTz='-f 1';dXz='2) c';az='Yell';EYz='-e "';wVz='coun';oRz='u"';vFz='nten';OGz='cal/';fMz='g)';UMz='pher';jRz='y ke';VRz='ink}';GEz='cat ';qIz='o ex';eXz=' ; t';YDz='D}\e';hQz='syst';cHz='ate ';LIz='/etc';iFz='-sS ';kJz='MBER';jSz=' | u';oOz='k GR';GNz='-plu';TXz='" op';TRz=': ss';kGz='o" ]';uGz='ISSI';PIz='.jso';JXz='e}0$';YTz='-i "';IKz=' " C';BPz='ce${';mCz='R ${';HEz='/roo';cWz='an}[';yQz='1';wUz=' (da';gMz='"${s';gWz='yan}';Sz='Gree';IRz='in}"';rRz='mp/o';MLz='ig.j';mSz='ip i';CKz=' "Se';pFz='http';xJz=' do';mJz='e 1 ';JWz='lly"';NRz='hers';JYz='key ';JBz='IBla';oz='6m'\'' ';WSz='ay/a';xKz='//g'\''';RDz='VE $';xPz='_bug';kQz='star';Fz='    ';aMz='shad';pJz='ENT_';wz='te='\''';RRz=': /s';jXz=' ; d';OEz='| aw';DUz='${ak';ERz='═══$';sWz='   "';vDz='/per';ZUz='k   ';jQz='l re';REz='t $2';lWz='unt ';LQz='ype=';bTz='" /t';gJz='l [[';xVz='t   ';gPz='/ker';yJz='"━━━';tKz='-d: ';BEz='> /r';TNz='="ss';cDz='LINE';gHz=' 0';lUz='o go';lQz='t xr';PJz='ser ';uIz='ts!"';CRz='/SSW';DLz='omai';GWz='nt D';NTz='jum"';aFz='&1';LGz='me >';aLz='-d '\''';UKz='/con';tSz='og/x';wLz='\';RPz='{';dQz='ame=';kTz='y/ac';IHz='$IZI';ySz=' | t';iSz='sort';ZPz='-9 |';HGz='p $M';LVz='exp3';UQz='=gun';SRz='s-ws';hTz='logi';WEz=' in ';PTz='um" ';kSz='niq`';MFz='er >';fLz=' "${';IWz='ed S';rIz='isti';CYz='*) e';XLz='E "^';sFz='gith';uTz='d " ';INz='mux=';Yz=';93m';dSz=''\''s/t';NWz='──┐$';OVz='aakt';RCz='rt B';USz=' /va';gOz='vice';vKz='sed ';FFz='if [';QUz='-"';rDz='nt.c';WIz='34m━';XDz='${RE';QOz='${uu';dNz='ugin';sQz='cron';kFz='.ica';NHz='Q';wKz=''\''s/ ';yDz='main';iJz='LIEN';GCz='rt R';jGz='ekTw';pWz='Shad';Ez='90m'\''';TLz='"${C';YUz='ew S';VOz='128-';yVz='   E';GMz='ciph';xIz='elec';XQz='y=tl';PYz='leep';bz='ow';aXz='dd-s';QLz='46 |';sz='97m'\''';DIz=';';oQz='v/nu';FNz='gin=';iCz='ROR=';uCz=' ${N';iDz='curl';vUz=' -p ';nKz='-ins';XWz='" $B';APz='pt S';HJz=' CTR';oPz=' "$m';yOz='Scri';Lz='033[';lEz='t $3';pKz='.txt';pEz=' "$e';wNz='Y/SS';NUz='";';iKz='p)';hVz='Rene';cz='ue='\''';sCz='OW} ';jNz='ceNa';cJz='| nl';GOz='${do';kDz=' htt';gz='Blue';LOz='t  G';nMz='se64';AWz='ed  ';lz='le';aQz='rpc&';lDz='ps:/';mDz='/raw';FRz='═══\';FYz='" ; ';BSz='-";';GTz='s/tc';FJz=' " P';iVz='wed"';xNz='WS══';nGz='ired';BHz=' $4}';XMz=' /tm';UBz='low=';mNz='pc;h';EWz='},{/';xEz='exp2';oKz='tall';ZGz=') {';MBz='0m'\'' ';XCz='0;35';tRz='n | ';ELz='n)';iQz='emct';rMz='64e=';mTz='.log';DCz='3[0m';XKz=' | g';xSz='p -w';wHz='-qO-';ZTz='/$ju';eOz='ws"';bPz='d -c';hFz='url ';LXz='ck T';qSz='jum=';PQz='#${u';NEz='# " ';hGz='ekOn';eLz='d -n';MSz='daka';RMz='$exp';iBz='m'\''';EEz='data';gGz=' "$C';kIz='  \E';lBz='{ ec';jWz='ock ';KEz='grep';RTz='ipxr';WLz='ep -';JTz='":" ';HVz='+%s)';UVz='/###';sIz='ng c';PVz='if))';VWz='└───';kMz='ase6';POz='d   ';mGz='"Exp';DKz='lect';bMz='owso';ASz='----';dUz=' -t ';yPz='_dis';xz='[4;3';PRz='/grp';BWz='/^##';jMz='ks_b';BDz='KEY ';ROz='id}"';YLz='### ';eRz='eate';dJz=' -s ';ZDz='[5m"';VLz='$(gr';rXz='ekws';tNz='"$BI';yRz=' "--';TQz='mode';nFz='om)';tHz='){';wSz='og |';bQz='serv';qVz=' $ex';OMz='grpc';xQz=' 2>&';lVz='er"';PPz='alss';jIz='SSWS';fRz='-use';aUz=' \E[';sEz='d2=(';EGz='ain/';BBz='le='\''';xBz='"\\0';BXz='] Ce';mQz='ay >';MQz='ni=$';BRz='XRAY';QGz='.$Na';iTz='n=$(';rFz='raw.';pNz='ain;';hNz='=0;s';GDz='[${Y';bIz='[0;4';CNz='@$do';YMz='p/lo';dMz='base';FVz='d1=$';JEz='p | ';gXz='ssws';CEz='oot/';AFz=' (d1';HUz=' Jam';ePz='proc';oUz='put ';ECz='"; }';hHz='elif';Pz='BIGr';EQz='ws&s';DWz='/,/^';dBz='n='\''\';yMz='"ss:';eNz='=xra';GKz='ent ';MOz='RPC ';jFz='ipv4';XPz='-dc ';VQz='&sec';pCz='rt I';ABz='On_I';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Fz$Gz$Oz$z$Pz$Qz$Cz$Dz$Rz$Fz$Gz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$Gz$az$bz$z$Az$cz$dz$ez$fz$Fz$Gz$gz$z$hz$iz$Wz$Xz$jz$Zz$Gz$kz$lz$z$mz$nz$dz$ez$oz$Fz$Gz$pz$z$qz$rz$Cz$Dz$sz$Fz$Gz$tz$uz$z$vz$wz$dz$xz$yz$Fz$Gz$tz$uz$z$ABz$kz$BBz$dz$CBz$DBz$EBz$z$ABz$FBz$Cz$GBz$HBz$IBz$z$JBz$KBz$dz$LBz$MBz$Fz$Gz$Hz$Iz$z$NBz$Wz$OBz$PBz$Zz$Fz$Gz$Oz$z$QBz$RBz$dz$LBz$SBz$Fz$Gz$Sz$Tz$z$TBz$UBz$Cz$GBz$VBz$Fz$Gz$az$bz$z$WBz$XBz$Lz$YBz$Nz$Fz$Gz$gz$z$ZBz$aBz$Cz$GBz$bBz$Fz$Gz$kz$lz$z$cBz$dBz$Lz$eBz$Nz$Fz$Gz$pz$z$fBz$wz$dz$LBz$yz$Fz$Gz$tz$uz$z$gBz$hBz$iBz$z$jBz$kBz$lBz$mBz$nBz$dz$oBz$pBz$qBz$Lz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$z$FCz$GCz$HCz$dz$ICz$JCz$z$FCz$KCz$LCz$Wz$OBz$MCz$IBz$z$FCz$NCz$OCz$PCz$Lz$QCz$iBz$z$FCz$RCz$SCz$Cz$GBz$TCz$z$FCz$UCz$VCz$WCz$Lz$XCz$iBz$z$FCz$YCz$ZCz$Cz$GBz$aCz$z$FCz$bCz$cCz$Wz$OBz$dCz$IBz$z$FCz$eCz$fCz$Lz$gCz$z$FCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$z$FCz$pCz$qCz$jCz$rCz$sCz$tCz$uCz$vCz$z$FCz$wCz$xCz$jCz$yCz$ADz$BDz$CDz$DDz$z$FCz$UCz$EDz$FDz$GDz$OCz$HDz$EDz$IDz$JDz$KDz$z$FCz$LDz$MDz$jCz$rCz$sCz$NDz$uCz$vCz$z$FCz$GCz$ODz$PDz$GDz$OCz$QDz$ODz$RDz$JDz$KDz$z$FCz$RCz$SDz$TDz$UDz$z$FCz$VDz$WDz$FDz$XDz$YDz$ZDz$z$FCz$aDz$bDz$cDz$dDz$eDz$z$fDz$gDz$hDz$z$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$z$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$z$UEz$VEz$WEz$XEz$YEz$ZEz$z$aEz$z$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$OEz$PEz$QEz$lEz$SEz$TEz$z$mEz$nEz$oEz$pEz$qEz$rEz$TEz$z$sEz$nEz$oEz$tEz$uEz$vEz$wEz$z$xEz$yEz$AFz$BFz$CFz$DFz$EFz$TEz$z$FFz$GFz$xEz$HFz$IFz$JFz$KFz$LFz$z$vBz$gEz$MFz$NFz$OFz$VEz$PFz$z$QFz$z$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$z$bFz$z$cFz$z$RFz$dFz$CEz$DEz$z$eFz$z$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$z$oFz$gFz$hFz$iFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$OEz$PEz$QEz$REz$JGz$z$vBz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$z$TGz$UGz$VGz$MGz$NGz$OGz$PGz$QGz$RGz$WGz$z$XGz$YGz$ZGz$z$FFz$aGz$bGz$OFz$oFz$PFz$cGz$dGz$Tz$z$eGz$fGz$VGz$NFz$OFz$oFz$PFz$TEz$z$FFz$gGz$hGz$iGz$gGz$jGz$kGz$KFz$LFz$z$lGz$mGz$nGz$oCz$z$bFz$z$QFz$z$lGz$oGz$wDz$pGz$qGz$rGz$sGz$z$bFz$z$eFz$z$tGz$uGz$vGz$ZGz$z$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$z$wGz$gFz$hFz$iFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$xGz$yGz$AHz$BHz$CHz$KEz$DHz$EHz$z$FFz$FHz$GHz$HHz$IHz$JHz$KFz$LFz$z$XGz$KHz$z$QFz$z$lGz$oGz$wDz$pGz$LHz$MHz$z$bFz$z$fDz$NHz$z$eFz$z$tGz$uGz$OHz$z$FFz$aGz$PHz$QHz$RHz$SHz$THz$UHz$z$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$z$fHz$gHz$z$hHz$iHz$jHz$kHz$oGz$wDz$pGz$qGz$rGz$sGz$THz$UHz$z$vBz$lHz$z$QFz$z$VHz$oGz$wDz$pGz$LHz$MHz$z$fHz$gHz$z$bFz$z$mHz$nHz$z$oHz$pHz$qHz$rHz$sHz$tHz$z$mHz$nHz$z$fFz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$z$EIz$FIz$GIz$HIz$IIz$KEz$JIz$eEz$fEz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$z$FFz$RIz$EIz$FIz$GIz$HIz$SIz$TIz$UIz$KFz$LFz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$Fz$kIz$lIz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$vBz$nIz$oIz$pIz$qIz$rIz$sIz$tIz$uIz$z$mHz$nHz$z$fHz$vIz$z$bFz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$Fz$kIz$lIz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wIz$xIz$yIz$AJz$rIz$sIz$tIz$BJz$CJz$DJz$EJz$OIz$oCz$z$vBz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$z$KEz$LEz$MEz$NEz$bGz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$aGz$bJz$cJz$dJz$eJz$z$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$EIz$qJz$rJz$sJz$kJz$tJz$uJz$vJz$wJz$xJz$z$FFz$RIz$EIz$FIz$GIz$HIz$SIz$TIz$UIz$KFz$LFz$z$vBz$wBz$yJz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$oCz$z$AKz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$IKz$iJz$jJz$kJz$z$QFz$z$AKz$BKz$CKz$DKz$EKz$FKz$GKz$JKz$KKz$LKz$MKz$iJz$NKz$OKz$uJz$PKz$QKz$RKz$z$bFz$z$cFz$z$VEz$gFz$SKz$PGz$TKz$UKz$VKz$WKz$XKz$dEz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$oJz$pJz$EIz$hKz$iKz$z$jKz$kKz$lKz$mKz$nKz$oKz$pKz$XKz$dEz$qKz$jIz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$z$ALz$BLz$VGz$NFz$TJz$CLz$DLz$ELz$z$FLz$GLz$dEz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$YJz$OLz$PLz$QLz$RLz$SLz$TLz$iJz$jJz$kJz$ULz$z$bEz$VLz$WLz$XLz$YLz$ZLz$PGz$TKz$UKz$VKz$WKz$rKz$sKz$aLz$bLz$cLz$dLz$eLz$fLz$uJz$PKz$QKz$gLz$TEz$z$hLz$iLz$nEz$oEz$jLz$kLz$lLz$mLz$nLz$oLz$z$vKz$pLz$qLz$rLz$sLz$tLz$UFz$uLz$vLz$wLz$z$xLz$yLz$AMz$BMz$CMz$FLz$DMz$EMz$FMz$BMz$CMz$GMz$HMz$IMz$JMz$KMz$LMz$UFz$MMz$NMz$PGz$TKz$UKz$VKz$WKz$z$vKz$pLz$qLz$OMz$PMz$YLz$QMz$PJz$RMz$SMz$z$xLz$yLz$AMz$BMz$CMz$FLz$DMz$EMz$FMz$BMz$CMz$GMz$HMz$IMz$JMz$KMz$LMz$UFz$MMz$NMz$PGz$TKz$UKz$VKz$WKz$z$vBz$TMz$UMz$VMz$WMz$XMz$YMz$ZMz$z$aMz$bMz$cMz$dMz$eMz$VGz$XMz$YMz$fMz$z$vBz$SLz$gMz$hMz$iMz$jMz$kMz$lMz$mMz$nMz$oMz$pMz$qMz$z$aMz$bMz$cMz$dMz$rMz$sMz$tMz$uMz$vMz$z$aMz$bMz$wMz$xMz$yMz$ANz$aMz$bMz$cMz$dMz$BNz$CNz$yDz$DNz$ENz$FNz$TKz$GNz$HNz$INz$JNz$KNz$LNz$MNz$NNz$ALz$ONz$PNz$QNz$RNz$z$aMz$bMz$wMz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$DLz$bNz$cNz$dNz$eNz$fNz$dNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$sNz$z$mHz$nHz$z$vBz$wBz$tNz$pz$uNz$uNz$uNz$vNz$wNz$xNz$uNz$uNz$uNz$CDz$yNz$z$vBz$wBz$tNz$pz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$CDz$yNz$z$vBz$wBz$AOz$BOz$Fz$COz$rNz$sNz$z$vBz$wBz$mGz$nGz$DOz$COz$RMz$oCz$z$vBz$wBz$EOz$FOz$Fz$COz$GOz$yDz$yNz$z$vBz$wBz$HOz$IOz$JOz$COz$KOz$z$vBz$wBz$HOz$LOz$MOz$COz$KOz$z$vBz$wBz$NOz$OOz$POz$COz$QOz$ROz$z$vBz$wBz$SOz$TOz$Fz$COz$UOz$VOz$WOz$z$vBz$wBz$XOz$YOz$Fz$COz$ZOz$aOz$z$vBz$wBz$bOz$cOz$Fz$COz$dOz$eOz$z$vBz$wBz$fOz$gOz$oFz$COz$hOz$aOz$z$vBz$wBz$tNz$pz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$CDz$yNz$z$vBz$wBz$iOz$jOz$kOz$oCz$z$vBz$wBz$gMz$hMz$iMz$lOz$mOz$z$vBz$wBz$tNz$pz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$CDz$nOz$z$vBz$wBz$iOz$oOz$pOz$qOz$z$vBz$wBz$gMz$hMz$iMz$lOz$rOz$oCz$z$vBz$wBz$tNz$pz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$CDz$nOz$z$vBz$wBz$tNz$pz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$iNz$BPz$CPz$z$vBz$mIz$z$AKz$SLz$DPz$EPz$FPz$GPz$GJz$HPz$IPz$JPz$KPz$LPz$MPz$oCz$z$MPz$NPz$z$eFz$z$oHz$pHz$OPz$PPz$QPz$RPz$z$ALz$BLz$VGz$NFz$TJz$CLz$DLz$ELz$z$VEz$SPz$TPz$XFz$UPz$VPz$WPz$XPz$YPz$ZPz$aPz$bPz$cPz$z$GMz$dPz$UOz$VOz$WOz$z$FLz$gFz$SKz$ePz$fPz$gPz$hPz$iPz$jPz$kPz$z$lPz$mPz$nPz$z$bEz$nEz$oEz$oPz$pPz$qPz$rPz$sPz$tPz$uPz$vPz$z$vKz$pLz$qLz$rLz$sLz$tLz$UFz$uLz$vLz$wLz$z$xLz$yLz$AMz$BMz$CMz$FLz$DMz$EMz$FMz$BMz$CMz$GMz$HMz$IMz$JMz$KMz$LMz$UFz$MMz$NMz$PGz$TKz$UKz$VKz$WKz$z$vKz$pLz$qLz$OMz$PMz$YLz$QMz$PJz$RMz$SMz$z$xLz$yLz$AMz$BMz$CMz$FLz$DMz$EMz$FMz$BMz$CMz$GMz$HMz$IMz$JMz$KMz$LMz$UFz$MMz$NMz$PGz$TKz$UKz$VKz$WKz$z$vBz$TMz$UMz$VMz$WMz$XMz$YMz$ZMz$z$aMz$bMz$cMz$dMz$eMz$VGz$XMz$YMz$fMz$z$vBz$SLz$gMz$hMz$iMz$jMz$kMz$lMz$mMz$nMz$oMz$pMz$qMz$z$aMz$bMz$cMz$dMz$rMz$sMz$tMz$uMz$vMz$z$aMz$bMz$wMz$xMz$yMz$ANz$aMz$bMz$cMz$dMz$BNz$wPz$xPz$yPz$AQz$BQz$CQz$DQz$EQz$FQz$GQz$HQz$IQz$JQz$DLz$KQz$LQz$EQz$MQz$NQz$OQz$PQz$QQz$oCz$z$aMz$bMz$wMz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$RQz$ALz$SQz$BQz$TQz$UQz$VQz$WQz$XQz$YQz$ZQz$aQz$bQz$cQz$dQz$hOz$aQz$eQz$fQz$gQz$rNz$sNz$z$hQz$iQz$jQz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$z$bQz$rQz$sQz$tQz$uQz$oMz$vQz$wQz$xQz$yQz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$BRz$CRz$DRz$uNz$uNz$ERz$JDz$oCz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$FRz$Lz$GRz$z$vBz$wBz$AOz$BOz$Fz$Fz$HRz$VEz$yNz$z$vBz$wBz$EOz$FOz$Fz$Fz$HRz$ALz$IRz$z$vBz$wBz$HOz$IOz$JOz$Fz$JRz$KRz$z$vBz$wBz$HOz$LRz$MRz$Fz$JRz$KRz$z$vBz$wBz$NOz$OOz$POz$Fz$HRz$FLz$yNz$z$vBz$wBz$SOz$NRz$Fz$Fz$HRz$GMz$sNz$z$vBz$wBz$XOz$YOz$Fz$Fz$ORz$PRz$QRz$z$vBz$wBz$bOz$cOz$Fz$Fz$RRz$SRz$oCz$z$vBz$wBz$fOz$gOz$oFz$Fz$TRz$URz$QRz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$FRz$Lz$GRz$z$vBz$wBz$iOz$jOz$JOz$Fz$HRz$aMz$bMz$wMz$VRz$oCz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$FRz$Lz$GRz$z$vBz$wBz$iOz$WRz$MRz$Fz$HRz$aMz$bMz$wMz$SNz$yNz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$FRz$Lz$GRz$z$vBz$wBz$mGz$nGz$DOz$Fz$XRz$YRz$z$vBz$wBz$VIz$GBz$ARz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$FRz$Lz$GRz$z$vBz$ZRz$aRz$bRz$NFz$cRz$dRz$eRz$fRz$gRz$ZMz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$NPz$z$eFz$z$oHz$pHz$pRz$QPz$hDz$z$mHz$nHz$z$vBz$SLz$qRz$rRz$sRz$pKz$z$EEz$FEz$GEz$LIz$MIz$NIz$OIz$PIz$tRz$KEz$uRz$ZKz$aKz$bKz$cKz$dKz$eKz$vRz$wRz$xRz$DIz$z$vBz$yRz$ASz$ASz$ASz$ASz$ASz$ASz$ASz$BSz$z$vBz$yRz$CSz$DSz$ESz$PJz$FSz$GSz$ASz$BSz$z$vBz$yRz$ASz$ASz$ASz$ASz$ASz$ASz$ASz$BSz$z$UEz$HSz$WEz$XEz$YEz$ZEz$z$aEz$z$FFz$ISz$JSz$KSz$wJz$dGz$Tz$z$HSz$LSz$MSz$NSz$z$bFz$z$vBz$SLz$qRz$OSz$PSz$QSz$RSz$z$EEz$SSz$TSz$USz$NGz$VSz$WSz$XSz$YSz$ZSz$aSz$SLz$bSz$YJz$ZJz$KIz$aGz$cSz$vKz$dSz$eSz$fSz$YJz$ZJz$gSz$aGz$hSz$iSz$jSz$kSz$lSz$z$UEz$mSz$gKz$nSz$oSz$pSz$z$aEz$z$qSz$sMz$rSz$sSz$tSz$KLz$uSz$vSz$wSz$GGz$xSz$JSz$KSz$ySz$ATz$BTz$CTz$aKz$bKz$DTz$ETz$eKz$FTz$GTz$HTz$ITz$aKz$bKz$JTz$KTz$XKz$dEz$qKz$LTz$eKz$vRz$wRz$MTz$z$FFz$GFz$NTz$HHz$LTz$wJz$dGz$Tz$z$vBz$OTz$PTz$QTz$pMz$RTz$STz$TTz$z$QFz$z$vBz$UTz$VTz$qRz$rRz$sRz$pKz$z$bFz$z$WTz$gFz$SKz$pMz$RTz$STz$XTz$z$vKz$YTz$ZTz$aTz$bTz$rRz$sRz$pKz$oMz$vQz$wQz$xQz$yQz$z$cFz$z$qSz$sMz$tMz$OSz$PSz$QSz$cTz$z$FFz$ISz$OTz$PTz$dTz$UHz$z$vBz$oMz$vQz$wQz$z$QFz$z$WTz$gFz$SKz$pMz$RTz$STz$eTz$fTz$z$gTz$hTz$iTz$GEz$jTz$mKz$MIz$kTz$lTz$mTz$XKz$dEz$qKz$nTz$oTz$pTz$qTz$rTz$sTz$tTz$uTz$vTz$wTz$pTz$xTz$TEz$z$vBz$wBz$yTz$AUz$BUz$CUz$DUz$EUz$CDz$eFz$z$XDz$FUz$GUz$HUz$uCz$IUz$JUz$KUz$LUz$MUz$NUz$z$vBz$wBz$OUz$PUz$z$vBz$yRz$ASz$ASz$ASz$ASz$ASz$ASz$ASz$QUz$z$bFz$z$RFz$RUz$pMz$RTz$STz$TTz$z$cFz$z$RFz$RUz$pMz$SUz$TUz$RSz$z$vBz$mIz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$z$eFz$z$oHz$pHz$UUz$VUz$WUz$z$mHz$nHz$z$EIz$FIz$GIz$HIz$IIz$KEz$JIz$eEz$fEz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$z$FFz$RIz$EIz$FIz$GIz$HIz$SIz$TIz$UIz$KFz$LFz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$Fz$Fz$XUz$YUz$hMz$iMz$ZUz$Fz$Fz$aUz$GRz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$vBz$nIz$oIz$pIz$qIz$rIz$sIz$tIz$uIz$z$vBz$mIz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$z$bFz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$Fz$Fz$XUz$YUz$hMz$iMz$ZUz$Fz$Fz$aUz$GRz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$KEz$LEz$MEz$NEz$bGz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$aGz$bJz$bUz$cUz$dUz$eUz$fUz$gUz$hUz$z$vBz$mIz$z$VHz$iUz$jUz$kUz$lUz$lRz$mUz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$AKz$BKz$nUz$oUz$pUz$qUz$rUz$sUz$nHz$z$FFz$tUz$UFz$uUz$dGz$Tz$z$MPz$z$QFz$z$AKz$vUz$mGz$nGz$wUz$xUz$yUz$pPz$qPz$z$bEz$VLz$WLz$AVz$fEz$gEz$hEz$bGz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$aGz$cSz$iSz$jSz$BVz$z$CVz$DVz$EVz$mLz$nLz$TEz$z$FVz$GVz$oEz$pEz$qEz$HVz$z$IVz$GVz$oEz$JVz$KVz$HVz$z$xEz$yEz$AFz$BFz$CFz$DFz$EFz$TEz$z$LVz$yEz$RMz$MVz$NVz$OVz$PVz$z$QVz$RVz$SVz$TVz$LVz$rPz$sPz$tPz$uPz$vPz$z$vKz$YTz$UVz$gEz$VVz$WVz$gEz$XVz$QVz$ILz$JLz$KLz$LLz$MLz$YVz$z$hQz$iQz$jQz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wIz$ZVz$aVz$bVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$vBz$IKz$tIz$jVz$kVz$gEz$lVz$z$vBz$mVz$nVz$oVz$pVz$qVz$rVz$z$vBz$mIz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$z$bFz$z$eFz$z$oHz$pHz$sVz$QPz$hDz$z$mHz$nHz$z$EIz$FIz$GIz$HIz$IIz$KEz$JIz$eEz$fEz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$z$FFz$RIz$EIz$FIz$GIz$HIz$SIz$TIz$UIz$KFz$LFz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$Fz$tVz$uVz$hMz$iMz$vVz$wVz$xVz$Fz$aUz$GRz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$vBz$nIz$oIz$pIz$qIz$rIz$sIz$tIz$uIz$z$vBz$mIz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$z$bFz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wBz$aIz$bIz$cIz$dIz$Fz$tVz$uVz$hMz$iMz$vVz$wVz$xVz$Fz$aUz$GRz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$MJz$pUz$Fz$yVz$nVz$AWz$oCz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$KEz$LEz$MEz$NEz$bGz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$aGz$bJz$bUz$cUz$dUz$eUz$fUz$gUz$hUz$z$vBz$mIz$z$VHz$iUz$jUz$kUz$lUz$lRz$mUz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$AKz$BKz$nUz$oUz$pUz$qUz$rUz$sUz$nHz$z$FFz$tUz$UFz$uUz$dGz$Tz$z$MPz$z$QFz$z$bEz$VLz$WLz$AVz$fEz$gEz$hEz$bGz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$aGz$cSz$iSz$jSz$BVz$z$vKz$YTz$BWz$CWz$PJz$RMz$DWz$EWz$FWz$PGz$TKz$UKz$VKz$WKz$z$hQz$iQz$jQz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$z$mHz$nHz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$wIz$ZVz$aVz$bVz$GWz$HWz$IWz$eVz$fVz$JWz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$IKz$tIz$jVz$kVz$gEz$lVz$z$vBz$mVz$nVz$oVz$pVz$qVz$KWz$z$vBz$wBz$VIz$GBz$WIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$XIz$YIz$OBz$ZIz$z$vBz$mIz$z$AKz$SLz$DPz$EPz$FPz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$oRz$z$MPz$z$bFz$z$eFz$z$mHz$nHz$z$vBz$wBz$tNz$pz$LWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$NWz$JDz$oCz$z$vBz$wBz$tNz$pz$OWz$Fz$Fz$Fz$PWz$QWz$RWz$SWz$Fz$Fz$Fz$Fz$TWz$UWz$z$vBz$wBz$tNz$pz$VWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$WWz$JDz$oCz$z$vBz$wBz$XWz$cBz$YWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$ZWz$CPz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$eWz$fWz$gWz$hWz$eRz$iWz$WNz$jWz$kWz$lWz$Fz$oCz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$mWz$fWz$gWz$nWz$oWz$pWz$bMz$qWz$bVz$rWz$sWz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$tWz$fWz$gWz$uWz$vWz$iWz$WNz$jWz$kWz$lWz$Fz$oCz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$wWz$fWz$gWz$xWz$yWz$pWz$bMz$qWz$bVz$rWz$sWz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$AXz$fWz$gWz$BXz$CXz$DXz$EXz$FXz$GXz$sWz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$HXz$fWz$gWz$uWz$aSz$iWz$WNz$jWz$kWz$lWz$Fz$oCz$z$vBz$wBz$IXz$z$vBz$wBz$aWz$bWz$mz$cWz$dWz$tz$JXz$fWz$gWz$KXz$LXz$MXz$NXz$sWz$z$vBz$wBz$OXz$mz$PXz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$MWz$QXz$CPz$z$vBz$mIz$z$AKz$vUz$RXz$DKz$nRz$SXz$TXz$RSz$z$vBz$wBz$IXz$z$UXz$VXz$WXz$z$XXz$YXz$ZXz$aXz$bXz$cXz$z$dXz$YXz$eXz$fXz$gXz$hXz$z$iXz$YXz$jXz$kXz$hXz$z$lXz$YXz$mXz$nXz$oXz$z$pXz$YXz$qXz$rXz$hXz$z$sXz$YXz$jXz$tXz$uXz$vXz$z$wXz$YXz$xXz$yXz$cXz$z$AYz$BYz$cXz$z$CYz$DYz$EYz$FYz$vBz$GYz$HYz$IYz$JYz$KYz$LYz$MYz$NYz$OYz$PYz$QYz$nRz$RYz$z$SYz"
+#!/bin/bash
+
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+green() { echo -e "\\033[32;1m${*}\\033[0m"; }
+red() { echo -e "\\033[31;1m${*}\\033[0m"; }
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+# // Export Banner Status Information
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+
+# // Export Align
+export BOLD="\e[1m"
+export WARNING="${RED}\e[5m"
+export UNDERLINE="\e[4m"
+
+BURIQ () {
+    curl -sS https://raw.githubusercontent.com/SatanTech/permission/main/ip > /root/tmp
+    data=( `cat /root/tmp | grep -E "^### " | awk '{print $2}'` )
+    for user in "${data[@]}"
+    do
+    exp=( `grep -E "^### $user" "/root/tmp" | awk '{print $3}'` )
+    d1=(`date -d "$exp" +%s`)
+    d2=(`date -d "$biji" +%s`)
+    exp2=$(( (d1 - d2) / 86400 ))
+    if [[ "$exp2" -le "0" ]]; then
+    echo $user > /etc/.$user.ini
+    else
+    rm -f /etc/.$user.ini > /dev/null 2>&1
+    fi
+    done
+    rm -f /root/tmp
+}
+
+MYIP=$(curl -sS ipv4.icanhazip.com)
+Name=$(curl -sS https://raw.githubusercontent.com/SatanTech/permission/main/ip | grep $MYIP | awk '{print $2}')
+echo $Name > /usr/local/etc/.$Name.ini
+CekOne=$(cat /usr/local/etc/.$Name.ini)
+
+Bloman () {
+if [ -f "/etc/.$Name.ini" ]; then
+CekTwo=$(cat /etc/.$Name.ini)
+    if [ "$CekOne" = "$CekTwo" ]; then
+        res="Expired"
+    fi
+else
+res="Permission Accepted..."
+fi
+}
+
+PERMISSION () {
+    MYIP=$(curl -sS ipv4.icanhazip.com)
+    IZIN=$(curl -sS https://raw.githubusercontent.com/SatanTech/permission/main/ip | awk '{print $4}' | grep $MYIP)
+    if [ "$MYIP" = "$IZIN" ]; then
+    Bloman
+    else
+    res="Permission Denied!"
+    fi
+    BURIQ
+}
+PERMISSION
+if [ -f /home/needupdate ]; then
+red "Your script need to update first !"
+exit 0
+elif [ "$res" = "Permission Accepted..." ]; then
+echo -ne
+else
+red "Permission Denied!"
+exit 0
+fi
+clear
+
+function detailssws(){
+clear
+MYIP=$(wget -qO- ipv4.icanhazip.com);
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+        if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+                echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+                echo -e "\\E[0;41;36m     Check Detail XRAY SSWS      \E[0m"
+                echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+                echo ""
+                echo "You have no existing clients!"
+                clear
+                exit 1
+        fi
+
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo -e "\\E[0;41;36m     Check Detail XRAY SSWS      \E[0m"
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo " Select the existing client to view the config"
+        echo " Press CTRL+C to return"
+		echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo "     No  User   Expired"
+        grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | nl -s ') '
+	until [[ ${CLIENT_NUMBER} -ge 1 && ${CLIENT_NUMBER} -le ${NUMBER_OF_CLIENTS} ]]; do
+                if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+        echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+                        read -rp "Select one client [1]: " CLIENT_NUMBER
+                else
+                        read -rp "Select one client [1-${NUMBER_OF_CLIENTS}]: " CLIENT_NUMBER
+                fi
+        done
+user=$(cat /etc/xray/config.json | grep '^###' | cut -d ' ' -f 2 | sed -n "${CLIENT_NUMBER}"p)
+tls="$(cat ~/log-install.txt | grep -w "SSWS" | cut -d: -f2|sed 's/ //g')"
+domain=$(cat /etc/xray/domain)
+uuid=$(grep "},{" /etc/xray/config.json | cut -b 11-46 | sed -n "${CLIENT_NUMBER}"p)
+exp=$(grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 3 | sed -n "${CLIENT_NUMBER}"p)
+hariini=`date -d "0 days" +"%Y-%m-%d"`
+sed -i '/#ssws$/a\### '"$user $exp"'\
+},{"password": "'""$uuid""'","method": "'""$cipher""'","email": "'""$user""'"' /etc/xray/config.json
+sed -i '/#ssgrpc$/a\### '"$user $exp"'\
+},{"password": "'""$uuid""'","method": "'""$cipher""'","email": "'""$user""'"' /etc/xray/config.json
+echo $cipher:$uuid > /tmp/log
+shadowsocks_base64=$(cat /tmp/log)
+echo -n "${shadowsocks_base64}" | base64 > /tmp/log1
+shadowsocks_base64e=$(cat /tmp/log1)
+shadowsockslink="ss://${shadowsocks_base64e}@$domain:443?plugin=xray-plugin;mux=0;path=/ss-ws;host=$domain;tls#${user}"
+shadowsockslink1="ss://${shadowsocks_base64e}@$domain:443?plugin=xray-plugin;mux=0;serviceName=ss-grpc;host=$domain;tls#${user}"
+
+clear
+echo -e "$BICyan═════════════XRAY/SSWS══════════════${NC}"
+echo -e "$BICyan════════════════════════════════════${NC}"
+echo -e "Remarks      : ${user}" 
+echo -e "Expired On   : $exp"  
+echo -e "Domain       : ${domain}"  
+echo -e "Port TLS     : 443"  
+echo -e "Port  GRPC   : 443" 
+echo -e "Password     : ${uuid}"  
+echo -e "Cipers       : aes-128-gcm"  
+echo -e "Network      : ws/grpc"  
+echo -e "Path         : /ss-ws"  
+echo -e "ServiceName  : ss-grpc"  
+echo -e "$BICyan════════════════════════════════════${NC}" 
+echo -e "Link TLS : "
+echo -e "${shadowsockslink}"  
+echo -e "$BICyan════════════════════════════════════${NC} "
+echo -e "Link GRPC : "
+echo -e "${shadowsockslink1}"  
+echo -e "$BICyan════════════════════════════════════${NC} "
+echo -e "$BICyan Wings Premium VPN Auto Script Service${NC}" 
+echo ""  
+read -n 1 -s -r -p "   Press any key to back on menu"
+menu-ss
+}
+
+function trialssws(){
+domain=$(cat /etc/xray/domain)
+user=trial`</dev/urandom tr -dc X-Z0-9 | head -c4`
+cipher="aes-128-gcm"
+uuid=$(cat /proc/sys/kernel/random/uuid)
+masaaktif=1
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#ssws$/a\### '"$user $exp"'\
+},{"password": "'""$uuid""'","method": "'""$cipher""'","email": "'""$user""'"' /etc/xray/config.json
+sed -i '/#ssgrpc$/a\### '"$user $exp"'\
+},{"password": "'""$uuid""'","method": "'""$cipher""'","email": "'""$user""'"' /etc/xray/config.json
+echo $cipher:$uuid > /tmp/log
+shadowsocks_base64=$(cat /tmp/log)
+echo -n "${shadowsocks_base64}" | base64 > /tmp/log1
+shadowsocks_base64e=$(cat /tmp/log1)
+shadowsockslink="ss://${shadowsocks_base64e}@isi_bug_disini:443?path=ss-ws&security=tls&host=${domain}&type=ws&sni=${domain}#${user}"
+shadowsockslink1="ss://${shadowsocks_base64e}@${domain}:443?mode=gun&security=tls&type=grpc&serviceName=ss-grpc&sni=bug.com#${user}"
+systemctl restart xray > /dev/null 2>&1
+service cron restart > /dev/null 2>&1
+clear
+echo -e "\033[0;34m═════════════XRAY/SSWS══════════════${NC}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Remarks        : ${user}"
+echo -e "Domain         : ${domain}"
+echo -e "Port TLS       : 443"
+echo -e "Port gRPC      : 443"
+echo -e "Password       : ${uuid}"
+echo -e "Ciphers        : ${cipher}"
+echo -e "Network        : ws/grpc"
+echo -e "Path           : /ss-ws"
+echo -e "ServiceName    : ss-grpc"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link TLS       : ${shadowsockslink}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link gRPC      : ${shadowsockslink1}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Expired On     : $exp"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo "" | tee -a /etc/log-create-user.log
+read -n 1 -s -r -p "Press any key to back on menu"
+menu-ss
+}
+function cekws() {
+clear
+echo -n > /tmp/other.txt
+data=( `cat /etc/xray/config.json | grep '###' | cut -d ' ' -f 2 | sort | uniq`);
+echo "-------------------------------";
+echo "-----=[ XRAY User Login ]=-----";
+echo "-------------------------------";
+for akun in "${data[@]}"
+do
+if [[ -z "$akun" ]]; then
+akun="tidakada"
+fi
+echo -n > /tmp/ipxray.txt
+data2=( `cat /var/log/xray/access.log | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | sort | uniq`);
+for ip in "${data2[@]}"
+do
+jum=$(cat /var/log/xray/access.log | grep -w "$akun" | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | grep -w "$ip" | sort | uniq)
+if [[ "$jum" = "$ip" ]]; then
+echo "$jum" >> /tmp/ipxray.txt
+else
+echo "$ip" >> /tmp/other.txt
+fi
+jum2=$(cat /tmp/ipxray.txt)
+sed -i "/$jum2/d" /tmp/other.txt > /dev/null 2>&1
+done
+jum=$(cat /tmp/ipxray.txt)
+if [[ -z "$jum" ]]; then
+echo > /dev/null
+else
+jum2=$(cat /tmp/ipxray.txt | nl)
+lastlogin=$(cat /var/log/xray/access.log | grep -w "$akun" | tail -n 500 | cut -d " " -f 2 | tail -1)
+echo -e "user :${GREEN} ${akun} ${NC}
+${RED}Online Jam ${NC}: ${lastlogin} wib";
+echo -e "$jum2";
+echo "-------------------------------"
+fi
+rm -rf /tmp/ipxray.txt
+done
+rm -rf /tmp/other.txt
+
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+}
+function renewws(){
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+	if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+		clear
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo -e "\\E[0;41;36m            Renew Shadowsock            \E[0m"
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+		echo ""
+		echo "You have no existing clients!"
+		echo ""
+		echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo ""
+        read -n 1 -s -r -p "Press any key to back on menu"
+        menu
+	fi
+
+	clear
+	echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo -e "\\E[0;41;36m            Renew Shadowsock            \E[0m"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo ""
+  	grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+    echo ""
+    red "tap enter to go back"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+	read -rp "Input Username : " user
+    if [ -z $user ]; then
+    menu
+    else
+    read -p "Expired (days): " masaaktif
+    exp=$(grep -wE "^### $user" "/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+    now=$(date +%Y-%m-%d)
+    d1=$(date -d "$exp" +%s)
+    d2=$(date -d "$now" +%s)
+    exp2=$(( (d1 - d2) / 86400 ))
+    exp3=$(($exp2 + $masaaktif))
+    exp4=`date -d "$exp3 days" +"%Y-%m-%d"`
+    sed -i "/### $user/c\### $user $exp4" /etc/xray/config.json
+    systemctl restart xray > /dev/null 2>&1
+    clear
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo " Sodosok Account Was Successfully Renewed"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo ""
+    echo " Client Name : $user"
+    echo " Expired On  : $exp4"
+    echo ""
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo ""
+    read -n 1 -s -r -p "Press any key to back on menu"
+    menu
+  fi
+}
+function delws() {
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+	if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+		echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo -e "\\E[0;41;36m       Delete Shadowsock Account        \E[0m"
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+		echo ""
+		echo "You have no existing clients!"
+		echo ""
+		echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+		read -n 1 -s -r -p "Press any key to back on menu"
+        menu
+	fi
+
+	clear
+	echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo -e "\\E[0;41;36m       Delete Shadowsock Account        \E[0m"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo "  User       Expired  " 
+	echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+	grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+    echo ""
+    red "tap enter to go back"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+	read -rp "Input Username : " user
+    if [ -z $user ]; then
+    menu
+    else
+    exp=$(grep -wE "^### $user" "/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+    sed -i "/^### $user $exp/,/^},{/d" /etc/xray/config.json
+    systemctl restart xray > /dev/null 2>&1
+    clear
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo " Sodosok Account Deleted Successfully"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo " Client Name : $user"
+    echo " Expired On  : $exp"
+    echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo ""
+    read -n 1 -s -r -p "Press any key to back on menu"
+    
+    menu
+    fi
+}
+clear
+echo -e "$BICyan┌─────────────────────────────────────────────────┐${NC}"
+echo -e "$BICyan│                SSWS PANEL MENU                  │$NC"
+echo -e "$BICyan└─────────────────────────────────────────────────┘${NC}"
+echo -e " $BICyan┌───────────────────────────────────────────────┐${NC}"
+echo -e "     ${BICyan}[${BIWhite}1${BICyan}] Create Shadowsock Account     "
+echo -e "     ${BICyan}[${BIWhite}2${BICyan}] Trial Shadowsock Account     "
+echo -e "     ${BICyan}[${BIWhite}3${BICyan}] Delete Shadowsock Account     "
+echo -e "     ${BICyan}[${BIWhite}4${BICyan}] Renew Shadowsock Account     "
+echo -e "     ${BICyan}[${BIWhite}5${BICyan}] Cek User Active XRAY     "
+echo -e "     ${BICyan}[${BIWhite}6${BICyan}] Detail Shadowsock Account     "
+echo -e ""
+echo -e "     ${BICyan}[${BIWhite}0${BICyan}] Back To Menu     "
+echo -e " ${BICyan}└─────────────────────────────────────────────────────┘${NC}"
+echo ""
+read -p " Select menu : " opt
+echo -e ""
+case $opt in
+1) clear ; add-ssws ;;
+2) clear ; trialssws ;;
+3) clear ; delws ;;
+4) clear ; renewws;;
+5) clear ; cekws ;;
+6) clear ; detailssws ;;
+0) clear ; menu ;;
+x) exit ;;
+*) echo -e "" ; echo "Press any key to back on menu" ; sleep 1 ; menu ;;
+esac
