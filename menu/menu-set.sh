@@ -1,5 +1,5 @@
 #!/bin/bash
-
+BOT="https://raw.githubusercontent.com/SatanTech/asep/main/"
 BIBlack='\033[1;90m'      # Black
 BIRed='\033[1;91m'        # Red
 BIGreen='\033[1;92m'      # Green
@@ -184,7 +184,7 @@ case $opt in
 10 | 10) clear ; limitspeed ;;
 11 | 11) clear ; webmin ;;
 12 | 12) clear ; update ;;
-13 | 13) clear ; botmenu ;;
+13 | 13) clear ; wget ${BOT}xolpanel.sh && chmod +x xolpanel.sh && ./xolpanel.sh ;;
 #14 | 14) clear ; onapp_ssh ;;
 00 | 0) clear ; menu ;;
 *) clear ; menu-set ;;
