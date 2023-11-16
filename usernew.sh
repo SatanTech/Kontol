@@ -108,13 +108,16 @@ fi
 portsshws=`cat /root/log-install.txt | grep -w "SSH Websocket" | cut -d: -f2 | awk '{print $1}'`
 wsssl=`cat /root/log-install.txt | grep -w "SSH SSL Websocket" | cut -d: -f2 | awk '{print $1}'`
 
-echo -e "$COLOR1╔══════════════════════════════════╗${NC}"
+echo -e "$COLOR1╭══════════════════════════════════╮${NC}"
 echo -e "\E[0;41;36m        Create SSH Account            \E[0m"
-echo -e "$COLOR1╚══════════════════════════════════╝${NC}"
+echo -e "$COLOR1╰══════════════════════════════════╯${NC}"
 read -p "Username : " Login
 read -p "Password : " Pass
-read -p "Limit IP : " sshlimit
 read -p "Expired (hari): " masaaktif
+read -p "limit IP: " max
+echo > /etc/cron.d/tendang
+                echo "# $Login" >>/etc/cron.d/tendang
+                echo "*/120 * * * *  root /usr/bin/tendang $max" >>/etc/cron.d/tendang
 
 IP=$(curl -sS ifconfig.me);
 ossl=`cat /root/log-install.txt | grep -w "OpenVPN" | cut -f2 -d: | awk '{print $6}'`
@@ -133,15 +136,15 @@ sleep 1
 clear
 useradd -e `date -d "$masaaktif days" +"%Y-%m-%d"` -s /bin/false -M $Login
 exp="$(chage -l $Login | grep "Account expires" | awk -F": " '{print $2}')"
+hariini=`date -d "0 days" +"%Y-%m-%d"`
 echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
-echo -e "$Login $sshlimiter" >>/root/usuarios.db
 PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
 
 if [[ ! -z "${PID}" ]]; then
 echo -e "${BIBlue}════════════ SSH ACCOUNT ═══════════${NC}"
 echo -e "Username   : $Login" 
 echo -e "Password   : $Pass"
-echo -e "Limit IP   : $sshlimit Device"
+echo -e "Created: $hariini"
 echo -e "Expired On : $exp" 
 echo -e "${BIBlue}═══════════════ HOST ═════════════${NC}"
 echo -e "IP         : $IP" 
@@ -185,7 +188,6 @@ else
 echo -e "${BIBlue}════════════ SSH ACCOUNT ═══════════${NC}"
 echo -e "Username   : $Login" 
 echo -e "Password   : $Pass"
-echo -e "Limit IP   : $sshlimit Device"
 echo -e "Expired On : $exp" 
 echo -e "${BIBlue}═══════════════ HOST ═════════════${NC}"
 echo -e "IP         : $IP" 
@@ -221,6 +223,7 @@ echo -e "Host: [host]"
 echo -e "User-Agent: [ua]"
 echo -e "Upgrade: Websocket[crlf][crlf]"
 echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "${BICyan} Satan Fusion Auto Script Service${NC}" 
 
 fi
 echo "" | tee -a /etc/log-create-user.log
