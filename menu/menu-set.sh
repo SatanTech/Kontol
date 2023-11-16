@@ -1,5 +1,5 @@
 #!/bin/bash
-BOT="https://raw.githubusercontent.com/SatanTech/asep/main/"
+
 BIBlack='\033[1;90m'      # Black
 BIRed='\033[1;91m'        # Red
 BIGreen='\033[1;92m'      # Green
@@ -21,7 +21,7 @@ ICyan='\033[0;96m'        # Cyan
 IWhite='\033[0;97m'       # White
 NC='\e[0m'
 BGCOLOR='\e[1;97;101m'    # WHITE RED
-
+BOT="https://raw.githubusercontent.com/SatanTech/asep/main/"
 # // Export Color & Information
 export RED='\033[0;31m'
 export GREEN='\033[0;32m'
@@ -148,10 +148,10 @@ red "Permission Denied!"
 exit 0
 fi
 clear
-echo -e "$BICyan ╔═════════════════════════════════════════════════╗${NC}"
+echo -e "$BICyan ╭═════════════════════════════════════════════════╮${NC}"
 echo -e "$BICyan ║ ${BGCOLOR}                  MENU SETTINGS                ${NC}${BICyan} ║$NC"
-echo -e "$BICyan ╚═════════════════════════════════════════════════╝${NC}"
-echo -e " $BICyan╔═════════════════════════════════════════════════╗${NC}"
+echo -e "$BICyan ╰═════════════════════════════════════════════════╯${NC}"
+echo -e " $BICyan╭═════════════════════════════════════════════════╮${NC}"
 echo -e " $BICyan║$NC   ${BICyan}[1]${NC}  • ADD HOST/DOMAIN"
 echo -e " $BICyan║$NC   ${BICyan}[2]${NC}  • RENEW CERTXRAY"
 echo -e " $BICyan║$NC   ${BICyan}[3]${NC}  • CHECK RUNNING"
@@ -167,7 +167,7 @@ echo -e " $BICyan║$NC   ${BICyan}[12]${NC} • UPDATE SCRIPT"
 echo -e " $BICyan║$NC   ${BICyan}[13]${NC} • BOT PANEL"
 #echo -e " $BICyan│$NC   ${BICyan}[14]${NC} • APP MONITOR ONLINE"
 echo -e " $BICyan║$NC   ${BICyan}[0]${NC}  • BACK TO MENU"
-echo -e " $BICyan╚══════════════════════════════════════════════════╝${NC}"
+echo -e " $BICyan╰══════════════════════════════════════════════════╯${NC}"
 echo -e ""
 read -p "  Select menu :  "  opt
 echo -e   ""

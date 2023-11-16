@@ -178,11 +178,11 @@ IPVPS=$(curl -s ipinfo.io/ip)
 UDPX="https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1S3IE25v_fyUfCLslnujFBSBMNunDHDk2' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1S3IE25v_fyUfCLslnujFBSBMNunDHDk2"
 clear
 echo -e ""
-echo -e "${BIBlue} ╔══════════════════════════════════════════════════════════╗${NC}"
+echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e "   ${BGCOLOR}                Satan Fusion Tunneling                  ${NC}"
-echo -e "${BIBlue} ╚══════════════════════════════════════════════════════════╝${NC}"
+echo -e "${BIBlue} ╰══════════════════════════════════════════════════════════╯${NC}"
 
-echo -e "${BIBlue} ╔══════════════════════════════════════════════════════════╗${NC}"
+echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e "${BIBlue} ║  ${GREEN}  Use Core       : ${BIGreen}Satan Fusion ${NC}" 
 echo -e "${BIBlue} ║  ${GREEN}  City           : ${BIGreen}$CITY${NC}"
 echo -e " ${BIBlue}║  ${GREEN}  OS VPS         : ${BIGreen}"`hostnamectl | grep "Operating System" | cut -d ' ' -f5-` $NC
@@ -191,16 +191,16 @@ echo -e " ${BIBlue}║  ${GREEN}  SLOWDNS Domain : ${BIPurple}$(cat /root/nsdoma
 echo -e " ${BIBlue}║  ${GREEN}  IP-VPS         : ${BIPurple}$IPVPS${NC}"
 echo -e " ${BIBlue}║  ${GREEN}  ISP-Name       : ${BIGreen}$ISP${NC}"
 echo -e " ${BIBlue}║  ${GREEN}  DATE&TIME      : ${BIGreen}$( date -d "0 days" +"%d-%m-%Y | %X" ) ${NC}"
-echo -e " ${BIBlue}╚══════════════════════════════════════════════════════════╝${NC}"
+echo -e " ${BIBlue}╰══════════════════════════════════════════════════════════╯${NC}"
 
-echo -e "${BIBlue} ╔══════════════════════════════════════════════════════════╗${NC}"
+echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e "${BIBlue} ║ \033[0m ${BOLD}${BIPurple}SSH     VMESS       VLESS      TROJAN       SHADOWSOCKS$NC  ${NC}"
 echo -e "${BIBlue} ║ \033[0m ${Blue} $ssh1        $vma           $vla          $tra               $ssa   $NC"
-echo -e "${BIBlue} ╚══════════════════════════════════════════════════════════╝${NC}"
+echo -e "${BIBlue} ╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e " ${BIPurple}    SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
 echo -e " ${BIPurple}            DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
-echo -e "${BIBlue} ╔══════════════════════════════════════════════════════════╗${NC}"
+echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${BIBlue}║  [${BIGreen}1${BIBlue}]${GREEN} SSH/UDP/SlowDNS ${NC}" 
 echo -e " ${BIBlue}║  [${BIGreen}2${BIBlue}]${GREEN} VMESS ${NC}"    
 echo -e " ${BIBlue}║  [${BIGreen}3${BIBlue}]${GREEN} VLESS ${NC}"    
@@ -211,10 +211,10 @@ echo -e " ${BIBlue}║  [${BIGreen}7${BIBlue}]${GREEN} SETTINGS ${NC}"
 echo -e " ${BIBlue}║  [${BIGreen}8${BIBlue}]${GREEN} INFO SCRIPT ${NC}"  
 echo -e " ${BIBlue}║  [${BIGreen}9${BIBlue}]${GREEN} INSTAL UDP ${NC}" 
 echo -e " ${BIBlue}║  [${BIGreen}x${BIBlue}]${GREEN} EXIT ${NC}"  
-echo -e "${BIBlue} ╚══════════════════════════════════════════════════════════╝${NC}"
-echo -e "${BIBlue} ╔══════════════════════════════════════════════════════════╗${NC}" 
+echo -e "${BIBlue} ╰══════════════════════════════════════════════════════════╯${NC}"
+echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}" 
 echo -e "${BIBlue} ║  ${BIGreen}     HARI ini${NC}: ${red}$ttoday$NC ${BIGreen}KEMARIN${NC}: ${red}$tyest$NC ${BIGreen}BULAN${NC}: ${red}$tmon$NC $NC" 
-echo -e "${BIBlue} ╚══════════════════════════════════════════════════════════╝${NC}"
+echo -e "${BIBlue} ╰══════════════════════════════════════════════════════════╯${NC}"
 DATE=$(date +'%d %B %Y')
 datediff() {
     d1=$(date -d "$1" +%s)
@@ -222,7 +222,7 @@ datediff() {
    echo -e " ${BIBlue}║$NC ${GREEN} Expiry In     : $(( (d1 - d2) / 86400 )) Days $NC"
 }
 mai="datediff "$Exp" "$DATE""
-echo -e " ${BIBlue}╔══════════════════════════════════════════════════════════╗${NC}"
+echo -e " ${BIBlue}╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${BIBlue}║ ${GREEN} Version       : $(cat /opt/.ver) LTS ${NC}"
 echo -e " ${BIBlue}║ ${GREEN} User          :\033[1;36m $Name \e[0m"
 echo -e " ${BIBlue}║ ${GREEN} Developer     :\033[1;36m SF Tunnel \e[0m"
@@ -232,7 +232,7 @@ echo -e " ${BIBlue}║$NC License     :${BIPurple}$sisa_hari$NC Days Tersisa $NC
 else
     datediff "$Exp" "$DATE"
 fi;
-echo -e " ${BIBlue}╚══════════════════════════════════════════════════════════╝${NC}"
+echo -e " ${BIBlue}╰══════════════════════════════════════════════════════════╯${NC}"
 echo
 read -p " Select menu : " opt
 echo -e ""
@@ -245,7 +245,7 @@ case $opt in
 6) clear ; menu-backup ;;
 7) clear ; menu-set ;;
 8) clear ; info ;;
-9) clear ; clear ; wget --load-cookies /tmp/cookies.txt ${UDPX} -O install-udp && rm -rf /tmp/cookies.txt && chmod +x install-udp && ./install-udp ;;
+9) clear ; wget --load-cookies /tmp/cookies.txt ${UDPX} -O install-udp && rm -rf /tmp/cookies.txt && chmod +x install-udp && ./install-udp ;;
 99) clear ; update ;;
 0) clear ; menu ;;
 x) exit ;;
