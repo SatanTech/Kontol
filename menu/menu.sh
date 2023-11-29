@@ -179,41 +179,41 @@ UDPX="https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-c
 clear
 echo -e ""
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e "${BICyan} │${NC} ${BGCOLOR}                Satan Fusion Tunneling                  ${NC} ${BICyan}│${NC}"
+echo -e "${BICyan} │${NC} ${BGCOLOR}                  Satan Fusion Tunneling                ${NC} ${BICyan}│${NC}"
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e "${BICyan} │  ${BIWhite}  Use Core       : ${BIGreen}Satan Fusion ${NC}" 
-echo -e "${BICyan} │  ${BIWhite}  City           : ${BIGreen}$CITY${NC}"
-echo -e " ${BICyan}│  ${BIWhite}  OS VPS         : ${BIGreen}"`hostnamectl | grep "Operating System" | cut -d ' ' -f5-` $NC
+echo -e "${BICyan} │  ${BIWhite}  Use Core       : ${BIWhite}Satan Fusion ${NC}" 
+echo -e "${BICyan} │  ${BIWhite}  City           : ${BIWhite}$CITY${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  OS VPS         : ${BIWhite}"`hostnamectl | grep "Operating System" | cut -d ' ' -f5-` $NC
 echo -e " ${BICyan}│  ${BIWhite}  Current Domain : ${BIPurple}$(cat /etc/xray/domain)${NC}"
 echo -e " ${BICyan}│  ${BIWhite}  SLOWDNS Domain : ${BIPurple}$(cat /root/nsdomain)${NC}"
 echo -e " ${BICyan}│  ${BIWhite}  IP-VPS         : ${BIPurple}$IPVPS${NC}"
-echo -e " ${BICyan}│  ${BIWhite}  ISP-Name       : ${BIGreen}$ISP${NC}"
-echo -e " ${BICyan}│  ${BIWhite}  DATE&TIME      : ${BIGreen}$( date -d "0 days" +"%d-%m-%Y | %X" ) ${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  ISP-Name       : ${BIWhite}$ISP${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  DATE&TIME      : ${BIWhite}$( date -d "0 days" +"%d-%m-%Y | %X" ) ${NC}"
 echo -e " ${BICyan}╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e "${BICyan} │ \033[0m ${BOLD}${BIPurple}SSH     VMESS       VLESS      TROJAN       SHADOWSOCKS$NC  ${NC}"
-echo -e "${BICyan} │ \033[0m ${Blue} $ssh1        $vma           $vla          $tra               $ssa   $NC"
+echo -e "${BICyan} │ \033[0m ${BIWhite} $ssh1        $vma           $vla          $tra               $ssa   $NC"
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 
-echo -e " ${BIPurple}    SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
-echo -e " ${BIPurple}            DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
+echo -e " ${BIPurple}      SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
+echo -e " ${BIPurple}               DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${BICyan}│  [${BIGreen}1${BICyan}]${BIWhite} SSH/UDP/SlowDNS ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}2${BICyan}]${BIWhite} VMESS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}3${BICyan}]${BIWhite} VLESS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}4${BICyan}]${BIWhite} TROJAN ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}5${BICyan}]${BIWhite} SHADOWSOCKS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}6${BICyan}]${BIWhite} BACKUP/RESTORE ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}7${BICyan}]${BIWhite} SETTINGS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}8${BICyan}]${BIWhite} INFO SCRIPT ${NC}"  
-echo -e " ${BICyan}│  [${BIGreen}9${BICyan}]${BIWhite} INSTAL UDP ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}x${BICyan}]${BIWhite} EXIT ${NC}"  
+echo -e " ${BICyan}│  [${BIPurple}1${BICyan}]${BIWhite} SSH/UDP/SlowDNS ${NC}" 
+echo -e " ${BICyan}│  [${BIPurple}2${BICyan}]${BIWhite} VMESS ${NC}"    
+echo -e " ${BICyan}│  [${BIPurple}3${BICyan}]${BIWhite} VLESS ${NC}"    
+echo -e " ${BICyan}│  [${BIPurple}4${BICyan}]${BIWhite} TROJAN ${NC}" 
+echo -e " ${BICyan}│  [${BIPurple}5${BICyan}]${BIWhite} SHADOWSOCKS ${NC}"    
+echo -e " ${BICyan}│  [${BIPurple}6${BICyan}]${BIWhite} BACKUP/RESTORE ${NC}"    
+echo -e " ${BICyan}│  [${BIPurple}7${BICyan}]${BIWhite} SETTINGS ${NC}"    
+echo -e " ${BICyan}│  [${BIPurple}8${BICyan}]${BIWhite} INFO SCRIPT ${NC}"  
+echo -e " ${BICyan}│  [${BIPurple}9${BICyan}]${BIWhite} INSTAL UDP ${NC}" 
+echo -e " ${BICyan}│  [${BIPurple}x${BICyan}]${BIWhite} EXIT ${NC}"  
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}" 
-echo -e "${BICyan} │  ${BIGreen}     HARI ini${NC}: ${red}$ttoday$NC ${BIGreen}KEMARIN${NC}: ${red}$tyest$NC ${BIGreen}BULAN${NC}: ${red}$tmon$NC $NC" 
+echo -e "${BICyan} │  ${BIPurple}     HARI ini${NC}: ${BIWhite}$ttoday$NC ${BIPurple}KEMARIN${NC}: ${BIWhite}$tyest$NC ${BIPurple}BULAN${NC}: ${BIWhite}$tmon$NC $NC" 
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 DATE=$(date +'%d %B %Y')
 datediff() {
@@ -224,8 +224,8 @@ datediff() {
 mai="datediff "$Exp" "$DATE""
 echo -e " ${BICyan}╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${BICyan}│ ${BIWhite} Version       : $(cat /opt/.ver) LTS ${NC}"
-echo -e " ${BICyan}│ ${BIWhite} User          :\033[1;36m $Name \e[0m"
-echo -e " ${BICyan}│ ${BIWhite} Developer     :\033[1;36m SF Tunnel \e[0m"
+echo -e " ${BICyan}│ ${BIWhite} User          :\033[1;95m $Name \e[0m"
+echo -e " ${BICyan}│ ${BIWhite} Developer     :\033[1;95m SF Tunnel \e[0m"
 if [ $exp \< 1000 ];
 then
 echo -e " ${BICyan}│$NC License     :${BIPurple}$sisa_hari$NC Days Tersisa $NC"
@@ -234,7 +234,7 @@ else
 fi;
 echo -e " ${BICyan}╰══════════════════════════════════════════════════════════╯${NC}"
 echo
-read -p " Select menu : " opt
+read -p "${BIWhite} Select menu : " opt
 echo -e ""
 case $opt in
 1) clear ; menu-ssh ;;
