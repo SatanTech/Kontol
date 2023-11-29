@@ -137,19 +137,19 @@ stat=-f7
 fi
 ssh=$(service ssh status | grep active | cut -d ' ' $stat)
 if [ "$ssh" = "active" ]; then
-ressh="${green}ON${NC}"
+ressh="${BIWhite}ON${NC}"
 else
 ressh="${red}OFF${NC}"
 fi
 sshstunel=$(service stunnel5 status | grep active | cut -d ' ' $stat)
 if [ "$sshstunel" = "active" ]; then
-resst="${green}ON${NC}"
+resst="${BIWhite}ON${NC}"
 else
 resst="${red}OFF${NC}"
 fi
 sshws=$(service ws-stunnel status | grep active | cut -d ' ' $stat)
 if [ "$sshws" = "active" ]; then
-ressshws="${green}ON${NC}"
+ressshws="${BIWhite}ON${NC}"
 else
 ressshws="${red}OFF${NC}"
 fi
@@ -161,13 +161,13 @@ resngx="${red}OFF${NC}"
 fi
 dbr=$(service dropbear status | grep active | cut -d ' ' $stat)
 if [ "$dbr" = "active" ]; then
-resdbr="${green}ON${NC}"
+resdbr="${BIWhite}ON${NC}"
 else
 resdbr="${red}OFF${NC}"
 fi
 v2r=$(service xray status | grep active | cut -d ' ' $stat)
 if [ "$v2r" = "active" ]; then
-resv2r="${green}ON${NC}"
+resv2r="${BIWhiten}ON${NC}"
 else
 resv2r="${red}OFF${NC}"
 fi
@@ -198,8 +198,8 @@ echo -e "${BICyan} │ \033[0m ${BOLD}${BIPurple}SSH     VMESS       VLESS      
 echo -e "${BICyan} │ \033[0m ${BIWhite} $ssh1        $vma           $vla          $tra               $ssa   $NC"
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 
-echo -e " ${BIPurple}      SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
-echo -e " ${BIPurple}               DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
+echo -e " ${BIPurple}       SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
+echo -e " ${BIPurple}                 DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${BICyan}│  [${BIPurple}1${BICyan}]${BIWhite} SSH/UDP/SlowDNS ${NC}" 
 echo -e " ${BICyan}│  [${BIPurple}2${BICyan}]${BIWhite} VMESS ${NC}"    
@@ -213,7 +213,7 @@ echo -e " ${BICyan}│  [${BIPurple}9${BICyan}]${BIWhite} INSTAL UDP ${NC}"
 echo -e " ${BICyan}│  [${BIPurple}x${BICyan}]${BIWhite} EXIT ${NC}"  
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}" 
-echo -e "${BICyan} │  ${BIPurple}     HARI ini${NC}: ${BIWhite}$ttoday$NC ${BIPurple}KEMARIN${NC}: ${BIWhite}$tyest$NC ${BIPurple}BULAN${NC}: ${BIWhite}$tmon$NC $NC" 
+echo -e "${BICyan} │  ${BIPurple}     HARI ini:${NC} ${BIWhite}$ttoday$NC ${BIPurple}KEMARIN:${NC} ${BIWhite}$tyest$NC ${BIPurple}BULAN:${NC} ${BIWhite}$tmon$NC $NC" 
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 DATE=$(date +'%d %B %Y')
 datediff() {
@@ -234,7 +234,7 @@ else
 fi;
 echo -e " ${BICyan}╰══════════════════════════════════════════════════════════╯${NC}"
 echo
-read -p "${BIWhite} Select menu : " opt
+read -p " Select menu : " opt
 echo -e ""
 case $opt in
 1) clear ; menu-ssh ;;
