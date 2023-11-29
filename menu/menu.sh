@@ -155,7 +155,7 @@ ressshws="${red}OFF${NC}"
 fi
 ngx=$(service nginx status | grep active | cut -d ' ' $stat)
 if [ "$ngx" = "active" ]; then
-resngx="${green}ON${NC}"
+resngx="${BIWhite}ON${NC}"
 else
 resngx="${red}OFF${NC}"
 fi
@@ -167,7 +167,7 @@ resdbr="${red}OFF${NC}"
 fi
 v2r=$(service xray status | grep active | cut -d ' ' $stat)
 if [ "$v2r" = "active" ]; then
-resv2r="${BIWhiten}ON${NC}"
+resv2r="${BIWhite}ON${NC}"
 else
 resv2r="${red}OFF${NC}"
 fi
