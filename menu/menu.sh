@@ -57,7 +57,7 @@ export NC='\033[0m'
 # // Export Banner Status Information
 export EROR="[${RED} EROR ${NC}]"
 export INFO="[${YELLOW} INFO ${NC}]"
-export OKEY="[${BICyan} OKEY ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
 export PENDING="[${YELLOW} PENDING ${NC}]"
 export SEND="[${YELLOW} SEND ${NC}]"
 export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
@@ -137,37 +137,37 @@ stat=-f7
 fi
 ssh=$(service ssh status | grep active | cut -d ' ' $stat)
 if [ "$ssh" = "active" ]; then
-ressh="${BICyan}ON${NC}"
+ressh="${green}ON${NC}"
 else
 ressh="${red}OFF${NC}"
 fi
 sshstunel=$(service stunnel5 status | grep active | cut -d ' ' $stat)
 if [ "$sshstunel" = "active" ]; then
-resst="${BICyan}ON${NC}"
+resst="${green}ON${NC}"
 else
 resst="${red}OFF${NC}"
 fi
 sshws=$(service ws-stunnel status | grep active | cut -d ' ' $stat)
 if [ "$sshws" = "active" ]; then
-ressshws="${BICyan}ON${NC}"
+ressshws="${green}ON${NC}"
 else
 ressshws="${red}OFF${NC}"
 fi
 ngx=$(service nginx status | grep active | cut -d ' ' $stat)
 if [ "$ngx" = "active" ]; then
-resngx="${BICyan}ON${NC}"
+resngx="${green}ON${NC}"
 else
 resngx="${red}OFF${NC}"
 fi
 dbr=$(service dropbear status | grep active | cut -d ' ' $stat)
 if [ "$dbr" = "active" ]; then
-resdbr="${BICyan}ON${NC}"
+resdbr="${green}ON${NC}"
 else
 resdbr="${red}OFF${NC}"
 fi
 v2r=$(service xray status | grep active | cut -d ' ' $stat)
 if [ "$v2r" = "active" ]; then
-resv2r="${BICyan}ON${NC}"
+resv2r="${green}ON${NC}"
 else
 resv2r="${red}OFF${NC}"
 fi
@@ -183,14 +183,14 @@ echo -e "${BICyan} │${NC} ${BGCOLOR}                Satan Fusion Tunneling    
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e "${BICyan} │  ${BICyan}  Use Core       : ${BIGreen}Satan Fusion ${NC}" 
-echo -e "${BICyan} │  ${BICyan}  City           : ${BIGreen}$CITY${NC}"
-echo -e " ${BICyan}│  ${BICyan}  OS VPS         : ${BIGreen}"`hostnamectl | grep "Operating System" | cut -d ' ' -f5-` $NC
-echo -e " ${BICyan}│  ${BICyan}  Current Domain : ${BIPurple}$(cat /etc/xray/domain)${NC}"
-echo -e " ${BICyan}│  ${BICyan}  SLOWDNS Domain : ${BIPurple}$(cat /root/nsdomain)${NC}"
-echo -e " ${BICyan}│  ${BICyan}  IP-VPS         : ${BIPurple}$IPVPS${NC}"
-echo -e " ${BICyan}│  ${BICyan}  ISP-Name       : ${BIGreen}$ISP${NC}"
-echo -e " ${BICyan}│  ${BICyan}  DATE&TIME      : ${BIGreen}$( date -d "0 days" +"%d-%m-%Y | %X" ) ${NC}"
+echo -e "${BICyan} │  ${BIWhite}  Use Core       : ${BIGreen}Satan Fusion ${NC}" 
+echo -e "${BICyan} │  ${BIWhite}  City           : ${BIGreen}$CITY${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  OS VPS         : ${BIGreen}"`hostnamectl | grep "Operating System" | cut -d ' ' -f5-` $NC
+echo -e " ${BICyan}│  ${BIWhite}  Current Domain : ${BIPurple}$(cat /etc/xray/domain)${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  SLOWDNS Domain : ${BIPurple}$(cat /root/nsdomain)${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  IP-VPS         : ${BIPurple}$IPVPS${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  ISP-Name       : ${BIGreen}$ISP${NC}"
+echo -e " ${BICyan}│  ${BIWhite}  DATE&TIME      : ${BIGreen}$( date -d "0 days" +"%d-%m-%Y | %X" ) ${NC}"
 echo -e " ${BICyan}╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
@@ -201,16 +201,16 @@ echo -e "${BICyan} ╰═══════════════════�
 echo -e " ${BIPurple}    SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
 echo -e " ${BIPurple}            DROPBEAR ${NC}: $resdbr" "${BIPurple} SSH-WS ${NC}: $ressshws"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${BICyan}│  [${BIGreen}1${BICyan}]${BICyan} SSH/UDP/SlowDNS ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}2${BICyan}]${BICyan} VMESS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}3${BICyan}]${BICyan} VLESS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}4${BICyan}]${BICyan} TROJAN ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}5${BICyan}]${BICyan} SHADOWSOCKS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}6${BICyan}]${BICyan} BACKUP/RESTORE ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}7${BICyan}]${BICyan} SETTINGS ${NC}"    
-echo -e " ${BICyan}│  [${BIGreen}8${BICyan}]${BICyan} INFO SCRIPT ${NC}"  
-echo -e " ${BICyan}│  [${BIGreen}9${BICyan}]${BICyan} INSTAL UDP ${NC}" 
-echo -e " ${BICyan}│  [${BIGreen}x${BICyan}]${BICyan} EXIT ${NC}"  
+echo -e " ${BICyan}│  [${BIGreen}1${BICyan}]${BIWhite} SSH/UDP/SlowDNS ${NC}" 
+echo -e " ${BICyan}│  [${BIGreen}2${BICyan}]${BIWhite} VMESS ${NC}"    
+echo -e " ${BICyan}│  [${BIGreen}3${BICyan}]${BIWhite} VLESS ${NC}"    
+echo -e " ${BICyan}│  [${BIGreen}4${BICyan}]${BIWhite} TROJAN ${NC}" 
+echo -e " ${BICyan}│  [${BIGreen}5${BICyan}]${BIWhite} SHADOWSOCKS ${NC}"    
+echo -e " ${BICyan}│  [${BIGreen}6${BICyan}]${BIWhite} BACKUP/RESTORE ${NC}"    
+echo -e " ${BICyan}│  [${BIGreen}7${BICyan}]${BIWhite} SETTINGS ${NC}"    
+echo -e " ${BICyan}│  [${BIGreen}8${BICyan}]${BIWhite} INFO SCRIPT ${NC}"  
+echo -e " ${BICyan}│  [${BIGreen}9${BICyan}]${BIWhite} INSTAL UDP ${NC}" 
+echo -e " ${BICyan}│  [${BIGreen}x${BICyan}]${BIWhite} EXIT ${NC}"  
 echo -e "${BICyan} ╰══════════════════════════════════════════════════════════╯${NC}"
 echo -e "${BICyan} ╭══════════════════════════════════════════════════════════╮${NC}" 
 echo -e "${BICyan} │  ${BIGreen}     HARI ini${NC}: ${red}$ttoday$NC ${BIGreen}KEMARIN${NC}: ${red}$tyest$NC ${BIGreen}BULAN${NC}: ${red}$tmon$NC $NC" 
@@ -219,13 +219,13 @@ DATE=$(date +'%d %B %Y')
 datediff() {
     d1=$(date -d "$1" +%s)
     d2=$(date -d "$2" +%s)
-   echo -e " ${BICyan}│$NC ${BICyan} Expiry In     : $(( (d1 - d2) / 86400 )) Days $NC"
+   echo -e " ${BICyan}│$NC ${BIWhite} Expiry In     : $(( (d1 - d2) / 86400 )) Days $NC"
 }
 mai="datediff "$Exp" "$DATE""
 echo -e " ${BICyan}╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${BICyan}│ ${BICyan} Version       : $(cat /opt/.ver) LTS ${NC}"
-echo -e " ${BICyan}│ ${BICyan} User          :\033[1;36m $Name \e[0m"
-echo -e " ${BICyan}│ ${BICyan} Developer     :\033[1;36m SF Tunnel \e[0m"
+echo -e " ${BICyan}│ ${BIWhite} Version       : $(cat /opt/.ver) LTS ${NC}"
+echo -e " ${BICyan}│ ${BIWhite} User          :\033[1;36m $Name \e[0m"
+echo -e " ${BICyan}│ ${BIWhite} Developer     :\033[1;36m SF Tunnel \e[0m"
 if [ $exp \< 1000 ];
 then
 echo -e " ${BICyan}│$NC License     :${BIPurple}$sisa_hari$NC Days Tersisa $NC"
