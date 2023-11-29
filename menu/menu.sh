@@ -179,7 +179,7 @@ UDPX="https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-c
 clear
 echo -e ""
 echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e "│  ${BGCOLOR}                Satan Fusion Tunneling                 ${NC}│"
+echo -e "${BIBlue} │${NC} ${BGCOLOR}                Satan Fusion Tunneling                 ${NC} ${BIBlue}│${NC}"
 echo -e "${BIBlue} ╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BIBlue} ╭══════════════════════════════════════════════════════════╮${NC}"
