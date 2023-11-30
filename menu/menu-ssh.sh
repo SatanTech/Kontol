@@ -20,7 +20,7 @@ IBlue='\033[0;94m'        # Blue
 IPurple='\033[0;95m'      # Purple
 ICyan='\033[0;96m'        # Cyan
 IWhite='\033[0;97m'       # White
-BGCOLOR='\033[0;97:101m'  # bgcolor
+BGCOLOR='\e[1;97;101m'    # WHITE RED
 NC='\e[0m'
 green() { echo -e "\\033[32;1m${*}\\033[0m"; }
 red() { echo -e "\\033[31;1m${*}\\033[0m"; }
@@ -129,49 +129,94 @@ sleep 0.5
 clear
 useradd -e `date -d "$masaaktif days" +"%Y-%m-%d"` -s /bin/false -M $Login
 exp="$(chage -l $Login | grep "Account expires" | awk -F": " '{print $2}')"
+hariini=`date -d "0 days" +"%Y-%m-%d"`
 echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
 PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
 
 if [[ ! -z "${PID}" ]]; then
-echo -e "${BIBlue}═════════════SSH ACCOUNTS═══════════${NC}"
-echo -e "${BIBlue}════════════════════════════════════${NC}"
+echo -e "${BIBlue}════════════ SSH ACCOUNT ═══════════${NC}"
 echo -e "Username   : $Login" 
 echo -e "Password   : $Pass"
+echo -e "Created: $hariini"
 echo -e "Expired On : $exp" 
-echo -e "${BIBlue}════════════════════════════════════${NC}"
+echo -e "${BIBlue}═══════════════ HOST ═════════════${NC}"
 echo -e "IP         : $IP" 
+echo -e "City       : $CITY"
+echo -e "ISP-Name   : $ISP"
 echo -e "Host       : $domen" 
+echo -e "${BIBlue}═════════════ SLOW  DNS ═══════════${NC}"
+echo -e "Nameserver : $sldomain" | tee -a /etc/log-create-user.log
+echo -e "PubKey     : $slkey" | tee -a /etc/log-create-user.log
+echo -e "SlowDNS    : 53,5300,443" 
+echo -e "${BIBlue}══════════════ PORT ══════════════${NC}"
 echo -e "OpenSSH    : $opensh"
 echo -e "Dropbear   : $db" 
-echo -e "SSH-WS     : $portsshws" 
+echo -e "SSH-WS     : $portsshws,8880,8080" 
 echo -e "SSH WS SSL : $wsssl" 
-echo -e "SSL/TLS    : $ssl" 
+echo -e "SSL/TLS    : $ssl"
+echo -e "UDP        : 1-65535" 
 echo -e "UDPGW      : 7100-7300" 
-echo -e "${BIBlue}════════════════════════════════════${NC}"
-echo -e "GET / HTTP/1.1[crlf]Host: $domen[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: ws[crlf][crlf]"
-echo -e "${BIBlue}════════════════════════════════════${NC}"
-echo -e "${BICyan}Satan Fusion Auto Script Service${NC}" 
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "SSH UDP    : $domen:1-65535@$Login:$Pass"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "Payload SSH CDN Port 80"
+echo -e ""
+echo -e "GET / HTTP/1.1"
+echo -e "Host: [host_port]"
+echo -e "User-Agent: [ua]"
+echo -e "Upgrade: websocket[crlf][crlf]"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "Payload SSH TLS/WSS Port 443"
+echo -e ""
+echo -e "GET wss://BUG/ HTTP/1.1"
+echo -e "Host: [host]"
+echo -e "User-Agent: [ua]"
+echo -e "Upgrade: Websocket[crlf][crlf]"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+
+echo -e "${BICyan} Satan Fusion Auto Script Service${NC}" 
 
 else
-clear
-echo -e "${BIBlue}═════════════SSH ACCOUNTS═══════════${NC}"
-echo -e "${BIBlue}════════════════════════════════════${NC}"
+
+echo -e "${BIBlue}════════════ SSH ACCOUNT ═══════════${NC}"
 echo -e "Username   : $Login" 
 echo -e "Password   : $Pass"
 echo -e "Expired On : $exp" 
-echo -e "${BIBlue}════════════════════════════════════${NC}"
+echo -e "${BIBlue}═══════════════ HOST ═════════════${NC}"
 echo -e "IP         : $IP" 
+echo -e "City       : $CITY"
+echo -e "ISP-Name   : $ISP"
 echo -e "Host       : $domen" 
+echo -e "${BIBlue}═════════════ SLOW  DNS ═══════════${NC}"
+echo -e "Nameserver : $sldomain" | tee -a /etc/log-create-user.log
+echo -e "PubKey     : $slkey" | tee -a /etc/log-create-user.log
+echo -e "SlowDNS    : 53,5300,443" 
+echo -e "${BIBlue}══════════════ PORT ══════════════${NC}"
 echo -e "OpenSSH    : $opensh"
 echo -e "Dropbear   : $db" 
-echo -e "SSH-WS     : $portsshws" 
+echo -e "SSH-WS     : $portsshws,8880,8080" 
 echo -e "SSH WS SSL : $wsssl" 
-echo -e "SSL/TLS    : $ssl" 
+echo -e "SSL/TLS    : $ssl"
+echo -e "UDP        : 1-65535" 
 echo -e "UDPGW      : 7100-7300" 
-echo -e "${BIBlue}════════════════════════════════════${NC}"
-echo -e "GET / HTTP/1.1[crlf]Host: $domen[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: ws[crlf][crlf]"
-echo -e "${BIBlue}════════════════════════════════════${NC}"
-echo -e "${BICyan}Satan Fusion Auto Script Service${NC}"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "SSH UDP    : $domen:1-65535@$Login:$Pass"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "Payload SSH CDN Port 80"
+echo -e ""
+echo -e "GET / HTTP/1.1"
+echo -e "Host: [host_port]"
+echo -e "User-Agent: [ua]"
+echo -e "Upgrade: websocket[crlf][crlf]"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "Payload SSH TLS/WSS Port 443"
+echo -e ""
+echo -e "GET wss://BUG/ HTTP/1.1"
+echo -e "Host: [host]"
+echo -e "User-Agent: [ua]"
+echo -e "Upgrade: Websocket[crlf][crlf]"
+echo -e "${BIBlue}══════════════════════════════════${NC}"
+echo -e "${BICyan} Satan Fusion Auto Script Service${NC}" 
 fi
 echo ""
 read -n 1 -s -r -p "   Press any key to back on menu"
@@ -274,9 +319,9 @@ fi
                
 data=( `ps aux | grep -i dropbear | awk '{print $2}'`);
 echo -e "${BIBlue}╭══════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}║${NC} \e[1;97;101m         Dropbear User Login        \E[0m ${BIBlue}║${NC}"
+echo -e "${BIBlue}│${NC} \e[1;97;101m         Dropbear User Login        \E[0m ${BIBlue}│${NC}"
 echo -e "${BIBlue}╠══════════════════════════════════════╣${NC}"
-echo -e "${BIBlue}║ ${NC}  ID    | Username |   IP Address   ${BIBlue} ║${NC}"
+echo -e "${BIBlue}│ ${NC}  ID    | Username |   IP Address   ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════╯\033[0m"
 cat $LOG | grep -i dropbear | grep -i "Password auth succeeded" > /tmp/login-db.txt;
 for PID in "${data[@]}"
@@ -291,9 +336,9 @@ do
 done
 echo " "
 echo -e "${BIBlue}╭══════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}║${NC} \e[1;97;101m         OpenSSH User Login         \E[0m ${BIBlue}║${NC}"
+echo -e "${BIBlue}│${NC} \e[1;97;101m         OpenSSH User Login         \E[0m ${BIBlue}│${NC}"
 echo -e "${BIBlue}╠══════════════════════════════════════╣${NC}"
-echo -e "${BIBlue}║ ${NC}  ID    | Username |   IP Address   ${BIBlue} ║${NC}"
+echo -e "${BIBlue}│ ${NC}  ID    | Username |   IP Address   ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════╯\033[0m"
 cat $LOG | grep -i sshd | grep -i "Accepted password for" > /tmp/login-db.txt
 data=( `ps aux | grep "\[priv\]" | sort -k 72 | awk '{print $2}'`);
@@ -311,9 +356,9 @@ done
 if [ -f "/etc/openvpn/server/openvpn-tcp.log" ]; then
         echo " "
 echo -e "${BIBlue}╭══════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}║${NC} \e[1;97;101m     OpenVPN TCP User Login   \E[0m ${BIBlue}║${NC}"
+echo -e "${BIBlue}│${NC} \e[1;97;101m     OpenVPN TCP User Login   \E[0m ${BIBlue}│${NC}"
 echo -e "${BIBlue}╠══════════════════════════════════════╣${NC}"
-echo -e "${BIBlue}║ ${NC}  Username |   IP Address  | Connected Since  ${BIBlue} ║${NC}"
+echo -e "${BIBlue}│ ${NC}  Username |   IP Address  | Connected Since  ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════╯\033[0m"
         cat /etc/openvpn/server/openvpn-tcp.log | grep -w "^CLIENT_LIST" | cut -d ',' -f 2,3,8 | sed -e 's/,/      /g' > /tmp/vpn-login-tcp.txt
         cat /tmp/vpn-login-tcp.txt
@@ -321,10 +366,10 @@ fi
 
 if [ -f "/etc/openvpn/server/openvpn-udp.log" ]; then
         echo " "
-        echo -e "${BIBlue}╭══════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}║${NC} \e[1;97;101m     OpenVPN UDP User Login   \E[0m ${BIBlue}║${NC}"
+echo -e "${BIBlue}╭══════════════════════════════════════╮${NC}"
+echo -e "${BIBlue}│${NC} \e[1;97;101m     OpenVPN UDP User Login   \E[0m ${BIBlue}│${NC}"
 echo -e "${BIBlue}╠══════════════════════════════════════╣${NC}"
-echo -e "${BIBlue}║ ${NC}  Username |   IP Address  | Connected Since  ${BIBlue} ║${NC}"
+echo -e "${BIBlue}│ ${NC}  Username |   IP Address  | Connected Since  ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════╯\033[0m"
         cat /etc/openvpn/server/openvpn-udp.log | grep -w "^CLIENT_LIST" | cut -d ',' -f 2,3,8 | sed -e 's/,/      /g' > /tmp/vpn-login-udp.txt
         cat /tmp/vpn-login-udp.txt
@@ -517,20 +562,20 @@ menu-ssh
 }
 clear
 echo -e "${BICyan}╭═════════════════════════════════════════════════╮${NC}"
-echo -e "${BICyan}║ ${BGCOLOR}                     SSH MENU                  \e[0m ║$NC"
+echo -e "${BICyan}│ ${BGCOLOR}                     SSH MENU                  ${NC} ${BICyan}│$NC"
 echo -e "${BICyan}╰═════════════════════════════════════════════════╯${NC}"
 echo -e "${BICyan}╭═════════════════════════════════════════════════╮${NC}"
-echo -e "     ${BICyan}[1]${NC} Create SSH Account     "
-echo -e "     ${BICyan}[2]${NC} Trial SSH Acoount      "
-echo -e "     ${BICyan}[3]${NC} Delete SSH Acoount      "
-echo -e "     ${BICyan}[4]${NC} Renew SSH Account      "
-echo -e "     ${BICyan}[5]${NC} Cek User SSH     "
-echo -e "     ${BICyan}[6]${NC} Mullog SSH     "
-echo -e "     ${BICyan}[7]${NC} Auto Del user Exp     "
-echo -e "     ${BICyan}[8]${NC} Auto Kill user SSH    "
-echo -e "     ${BICyan}[9]${NC} Cek Member SSH"
+echo -e "${BICyan}│    [${BIPurple}1${BICyan}]${$BIWhite} Create SSH Account${NC}"
+echo -e "${BICyan}│    [${BIPurple}2${BICyan}]${$BIWhite} Trial SSH Acoount${NC}"
+echo -e "${BICyan}│    [${BIPurple}3${BICyan}]${$BIWhite} Delete SSH Acoount${NC}"
+echo -e "${BICyan}│    [${BIPurple}4${BICyan}]${$BIWhite} Renew SSH Account${NC}"
+echo -e "${BICyan}│    [${BIPurple}5${BICyan}]${$BIWhite} Cek User SSH${NC}"
+echo -e "${BICyan}│    [${BIPurple}6${BICyan}]${$BIWhite} Mullog SSH${NC}"
+echo -e "${BICyan}│    [${BIPurple}7${BICyan}]${$BIWhite} Auto Del user Exp${NC}"
+echo -e "${BICyan}│    [${BIPurple}8${BICyan}]${$BIWhite} Auto Kill user SSH${NC}"
+echo -e "${BICyan}│    [${BIPurple}9${BICyan}]${$BIWhite} Cek Member SSH${NC}"
 
-echo -e "     ${BICyan}[0]${NC} Back To Menu      "
+echo -e "${BICyan}│    [${BIPurple}0${BICyan}]${$BIWhite} Back To Menu${NC}"
 echo -e "${BICyan}╰══════════════════════════════════════════════════╯${NC}"
 echo ""
 read -p " Select menu : " opt
