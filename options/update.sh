@@ -1,4 +1,25 @@
 #wget https://github.com/${GitUser}/
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+BGCOLOR='\e[1;97;101m'    # WHITE RED
+NC='\e[0m'
 GitUser="SatanTech"
 if [ "${EUID}" -ne 0 ]; then
 		echo "You need to run this script as root"
@@ -37,17 +58,17 @@ sts="${Error}"
 fi
 clear
 echo ""
-echo -e "   \e[$line--------------------------------------------------------\e[m"
-echo -e "   \e[$back_text                 \e[30m[\e[$box CHECK NEW UPDATE\e[30m ]                   \e[m"
-echo -e "   \e[$line--------------------------------------------------------\e[m"
-echo -e "   \e[$below VVERSION NOW >> $Info1"
-echo -e "   \e[$below SSTATUS UPDATE >> $sts"
+echo -e "${BICyan}╭═════════════════════════════════════╮${NC}"
+echo -e "${BICyan}│${NC} ${BGCOLOR} CHECK NEW UPDATE    ${NC} ${BICyan}│${NC}"
+echo -e "${BICyan}╰═════════════════════════════════════╯${NC}"
+echo -e "${BIWhite} VERSION NOW ${NC} >> $Info1"
+echo -e "${BIWhite} STATUS UPDATE ${NC} >> $sts"
 echo -e ""
-echo -e "       \e[1;31mWould you like to proceed?\e[0m"
+echo -e "${BIRed} Would you like to proceed? ${NC}"
 echo ""
-echo -e "            \e[0;32m[ Select Option ]\033[0m"
-echo -e "     \e[$number [1]\e[m \e[$below CCheck Script Update Now\e[m"
-echo -e "     \e[$number [x]\e[m \e[$below BBack To Menu\e[m"
+echo -e "            [ Select Option ]"
+echo -e "${BICyan}     [${BIPurple}1${BICyan}]${BIWhite}Check Script Update Now ${NC}"
+echo -e "${BICyan}     [${BIPurple}x${BICyan}]${BIWhite}Back To Menu ${NC}"
 echo -e ""
 echo -e "   \e[$line--------------------------------------------------------\e[m"
 echo -e "\e[$line"
