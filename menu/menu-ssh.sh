@@ -104,6 +104,12 @@ exit 0
 fi
 clear
 function trialssh(){
+# Getting
+CITY=$(curl -s ipinfo.io/city)
+ISP=$(curl -s ipinfo.io/org | cut -d " " -f 2-10)
+sldomain=$(cat /root/nsdomain)
+cdndomain=$(cat /root/awscdndomain)
+slkey=$(cat /etc/slowdns/server.pub)
 clear
 domen=`cat /etc/xray/domain`
 portsshws=`cat ~/log-install.txt | grep -w "SSH Websocket" | cut -d: -f2 | awk '{print $1}'`
