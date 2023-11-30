@@ -195,7 +195,7 @@ echo -e " ${BICyan}╰═══════════════════�
 
 echo -e "${BICyan}          ╭═════════════════════════════════════╮${NC}"
 echo -e "${BIPurple}                    LIST ACCOUNT PREMIUM ${NC}"
-echo -e "{BICyan}               ────────────────────────────────── ${NC}"
+echo -e "${BICyan}              ────────────────────────────────── ${NC}"
 echo -e "${BIPurple}                SSH/SlowDNS.   : ${NC} $ssh1 ${BIWhite} ACCOUNT ${NC}"
 echo -e "${BIPurple}                VMESS.         : ${NC} $vma ${BIWhite} ACCOUNT ${NC}"
 echo -e "${BIPurple}                VLESS.         : ${NC} $vla ${BIWhite} ACCOUNT ${NC}"
