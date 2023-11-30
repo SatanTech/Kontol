@@ -22,6 +22,7 @@ IWhite='\033[0;97m'       # White
 NC='\e[0m'
 BGCOLOR='\e[1;97;101m'    # WHITE RED
 BOT="https://raw.githubusercontent.com/SatanTech/asep/main/"
+KUMIS="https://raw.githubusercontent.com/SatanTech/kumis/main/"
 # // Export Color & Information
 export RED='\033[0;31m'
 export GREEN='\033[0;32m'
@@ -157,7 +158,7 @@ echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}02${BICyan}]${BIWhite} ☛ RENEW 
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}03${BICyan}]${BIWhite} ☛ CHECK RUNNING ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}04${BICyan}]${BIWhite} ☛ GANTI BANNER SSH ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}05${BICyan}]${BIWhite} ☛ INFO BANDWITH ${NC}"
-echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}06${BICyan}]${BIWhite} ☛ RESTART${NC}"
+echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}06${BICyan}]${BIWhite} ☛ RESTART ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}07${BICyan}]${BIWhite} ☛ AUTO REBOOT ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}08${BICyan}]${BIWhite} ☛ REBOOT ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}09${BICyan}]${BIWhite} ☛ SPEEDTEST ${NC}"
@@ -165,6 +166,7 @@ echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}10${BICyan}]${BIWhite} ☛ LIMIT 
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}11${BICyan}]${BIWhite} ☛ WEBMIN ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}12${BICyan}]${BIWhite} ☛ UPDATE SCRIPT ${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}13${BICyan}]${BIWhite} ☛ BOT PANEL ${NC}"
+echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}14${BICyan}]${BIWhite} ☛ BOT PANEL 2 ${NC}"
 #echo -e " $BICyan│$NC   ${BICyan}[14]${NC} ☛ APP MONITOR ONLINE"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}00${BICyan}]${BIWhite} ☛ BACK TO MENU ${NC}"
 echo -e " $BICyan╰══════════════════════════════════════════════════╯${NC}"
@@ -185,6 +187,7 @@ case $opt in
 11 | 11) clear ; webmin ;;
 12 | 12) clear ; update ;;
 13 | 13) clear ; wget ${BOT}xolpanel.sh && chmod +x xolpanel.sh && ./xolpanel.sh ;;
+14 | 14) clear ; wget ${KUMIS}kumis.sh && chmod +x kumisl.sh && ./kumis.sh ;;
 #14 | 14) clear ; onapp_ssh ;;
 00 | 0) clear ; menu ;;
 *) clear ; menu-set ;;
