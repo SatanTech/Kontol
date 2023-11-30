@@ -166,7 +166,7 @@ echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}11${BICyan}]${BIWhite} ☛ WEBMIN
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}12${BICyan}]${BIWhite} ☛ UPDATE SCRIPT${NC}"
 echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}13${BICyan}]${BIWhite} ☛ BOT PANEL${NC}"
 #echo -e " $BICyan│$NC   ${BICyan}[14]${NC} ☛ APP MONITOR ONLINE"
-echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}00${BICyan}]${BIWhite}  ☛ BACK TO MENU${NC}"
+echo -e " $BICyan│$NC   ${BICyan}[${BIPurple}00${BICyan}]${BIWhite} ☛ BACK TO MENU${NC}"
 echo -e " $BICyan╰══════════════════════════════════════════════════╯${NC}"
 echo -e ""
 read -p "  Select menu :  "  opt
