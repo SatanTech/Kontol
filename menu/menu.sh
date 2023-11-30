@@ -194,11 +194,11 @@ echo -e " ${BICyan}│  ${BIWhite}  DATE&TIME      : ${BIWhite}$( date -d "0 day
 echo -e " ${BICyan}╰══════════════════════════════════════════════════════════╯${NC}"
 
 echo -e "${BICyan}       ╭═════════════════════════════════════╮${NC}"
-echo -e "${BIPurple}                                      SSH/SlowDNS.       : ${NC} $ssh1 ${BIWhite} ACCOUNT ${NC}"
-echo -e "${BIPurple}                                      VMESS               : ${NC} $vma ${BIWhite} ACCOUNT ${NC}"
-echo -e "${BIPurple}                                      VLESS                : ${NC} $vla ${BIWhite} ACCOUNT ${NC}"
-echo -e "${BIPurple}                                      TROJAN              : ${NC} $tra ${BIWhite} ACCOUNT ${NC}"
-echo -e "${BIPurple}                                      SHADOWSOCKS      : ${NC} $ssa ${BIWhite} ACCOUNT $NC"
+echo -e "${BIPurple}                  SSH/SlowDNS.      : ${NC} $ssh1 ${BIWhite} ACCOUNT ${NC}"
+echo -e "${BIPurple}                  VMESS.             : ${NC} $vma ${BIWhite} ACCOUNT ${NC}"
+echo -e "${BIPurple}                  VLESS.              : ${NC} $vla ${BIWhite} ACCOUNT ${NC}"
+echo -e "${BIPurple}                  TROJAN.            : ${NC} $tra ${BIWhite} ACCOUNT ${NC}"
+echo -e "${BIPurple}                  SHADOWSOCKS.   : ${NC} $ssa ${BIWhite} ACCOUNT $NC"
 echo -e "${BICyan}      ╰══════════════════════════════════════╯${NC}"
 
 echo -e " ${BIPurple}       SSH ${NC}: $ressh"" ${BIPurple} NGINX ${NC}: $resngx"" ${BIPurple}  XRAY ${NC}: $resv2r"" ${BIPurple} TROJAN ${NC}: $resv2r"
