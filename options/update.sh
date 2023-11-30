@@ -59,7 +59,7 @@ fi
 clear
 echo ""
 echo -e "${BICyan}╭═════════════════════════════════════╮${NC}"
-echo -e "${BICyan}│${NC} ${BGCOLOR} CHECK NEW UPDATE    ${NC} ${BICyan}│${NC}"
+echo -e "${BICyan}│${NC} ${BGCOLOR}           CHECK NEW UPDATE    ${NC} ${BICyan}     │${NC}"
 echo -e "${BICyan}╰═════════════════════════════════════╯${NC}"
 echo -e "${BIWhite} VERSION NOW ${NC} >> $Info1"
 echo -e "${BIWhite} STATUS UPDATE ${NC} >> $sts"
