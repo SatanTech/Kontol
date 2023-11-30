@@ -47,7 +47,7 @@ box=$(cat /etc/box)
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
 Info1="${BICyan} ( ${BIPurple} $version ${BICyan} ) ${NC}"
 Info2="${BICyan} ( ${BIWhite} LATEST VERSION ${BICyan} ) ${NC}"
-Error="${BIWhite} Version ${BIPurple} [$ver] ${BIWhite} Available ${BIPurple} Please Update ${NC}"
+Error="${BIWhite} Version ${BIPurple} [$ver] ${BIWhite} Available Please Update ${NC}"
 version=$(cat /home/ver)
 new_version=$( curl https://raw.githubusercontent.com/${GitUser}/Kontol/main/newversion | grep $version )
 #Status Version
