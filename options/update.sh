@@ -45,9 +45,9 @@ number=$(cat /etc/number)
 box=$(cat /etc/box)
 # CEK UPDATE
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
-Info1="${Green_font_prefix}($version)${Font_color_suffix}"
-Info2="${Green_font_prefix}(LATEST VERSION)${Font_color_suffix}"
-Error="Version ${Green_font_prefix}[$ver]${Font_color_suffix} available${Red_font_prefix}[Please Update]${Font_color_suffix}"
+Info1="${BICyan} ( ${BIPurple} $version ${BICyan} ) ${NC}"
+Info2="${BICyan} ( ${BIWhite} LATEST VERSION ${BICyan} ) ${NC}"
+Error="${BIWhite} Version ${BIPurple} [$ver] ${BIWhite} Available ${BIPurple} Please Update ${NC}"
 version=$(cat /home/ver)
 new_version=$( curl https://raw.githubusercontent.com/${GitUser}/Kontol/main/newversion | grep $version )
 #Status Version
@@ -59,14 +59,13 @@ fi
 clear
 echo ""
 echo -e "${BICyan}╭═════════════════════════════════════╮${NC}"
-echo -e "${BICyan}│${NC} ${BGCOLOR}           CHECK NEW UPDATE    ${NC} ${BICyan}     │${NC}"
+echo -e "${BICyan}│${NC} ${BGCOLOR}           CHECK NEW UPDATE       ${NC} ${BICyan}│${NC}"
 echo -e "${BICyan}╰═════════════════════════════════════╯${NC}"
 echo -e "${BIWhite} VERSION NOW ${NC} >> $Info1"
 echo -e "${BIWhite} STATUS UPDATE ${NC} >> $sts"
 echo -e ""
 echo -e "${BIRed} Would you like to proceed? ${NC}"
 echo ""
-echo -e "            [ Select Option ]"
 echo -e "${BICyan}     [${BIPurple}1${BICyan}]${BIWhite}Check Script Update Now ${NC}"
 echo -e "${BICyan}     [${BIPurple}x${BICyan}]${BIWhite}Back To Menu ${NC}"
 echo -e ""
