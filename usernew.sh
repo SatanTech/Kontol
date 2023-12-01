@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #Script By Wings Premium VPN
 
 BIBlack='\033[1;90m'      # Black
