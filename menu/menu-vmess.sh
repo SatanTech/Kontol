@@ -21,6 +21,7 @@ IBlue='\033[0;94m'        # Blue
 IPurple='\033[0;95m'      # Purple
 ICyan='\033[0;96m'        # Cyan
 IWhite='\033[0;97m'       # White
+BGCOLOR='\e[1;97;101m'    # WHITE RED
 NC='\e[0m'
 green() { echo -e "\\033[32;1m${*}\\033[0m"; }
 red() { echo -e "\\033[31;1m${*}\\033[0m"; }
@@ -470,19 +471,19 @@ NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
 }
 
 clear
-echo -e "${BICyan}┌─────────────────────────────────────────────────┐${NC}"
-echo -e "${BICyan}│                    VMESS MENU                   │$NC"
-echo -e "${BICyan}└─────────────────────────────────────────────────┘${NC}"
-echo -e "${BICyan}┌─────────────────────────────────────────────────┐${NC}"
-echo -e "     ${BICyan}[${COLOR1}1${BICyan}] Create Vmess Account     "
-echo -e "     ${BICyan}[${COLOR1}2${BICyan}] Trial Vmess Account     "
-echo -e "     ${BICyan}[${COLOR1}3${BICyan}] Delete Account Vmess     "
-echo -e "     ${BICyan}[${COLOR1}4${BICyan}] Renew Account Vmess     "
-echo -e "     ${BICyan}[${COLOR1}5${BICyan}] Cek User XRAY     "
-echo -e "     ${BICyan}[${COLOR1}6${BICyan}] Detail Vmess Account     "
-echo -e ""
-echo -e "     ${BICyan}[${COLOR1}0${BICyan}] Back To Menu     "
-echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
+echo -e "${BICyan}╭═════════════════════════════════════════════════╮${NC}"
+echo -e "${BICyan}│ ${BGCOLOR}                    VMESS MENU                  ${NC} ${BICyan}│$NC"
+echo -e "${BICyan}╰═════════════════════════════════════════════════╯${NC}"
+echo -e "${BICyan}╭═════════════════════════════════════════════════╮${NC}"
+echo -e "${BICyan}│    [${BIPurple}1${BICyan}]${BIWhite} ☛ Create Vmess Account ${NC}"
+echo -e "${BICyan}│    [${BIPurple}2${BICyan}]${BIWhite} ☛ Trial Vmess Account ${NC}"
+echo -e "${BICyan}│    [${BIPurple}3${BICyan}]${BIWhite} ☛ Delete Account Vmess ${NC}"
+echo -e "${BICyan}│    [${BIPurple}4${BICyan}]${BIWhite} ☛ Renew Account Vmess ${NC}"
+echo -e "${BICyan}│    [${BIPurple}5${BICyan}]${BIWhite} ☛ Cek User XRAY ${NC}"
+echo -e "${BICyan}│    [${BIPurple}6${BICyan}]${BIWhite} ☛ Detail Vmess Account ${NC}"
+echo -e "${BICyan}│${NC}"
+echo -e "${BICyan}│    [${BIPurple}0${BICyan}]${BIWhite} ☛ Back To Menu ${NC}"
+echo -e "${BICyan}╰══════════════════════════════════════════════════╯${NC}"
 echo ""
 read -p " Select menu : " opt
 echo -e ""
